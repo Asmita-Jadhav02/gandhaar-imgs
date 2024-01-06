@@ -1,0 +1,81 @@
+{
+    "tabs": [
+        "MasterChef Challenge",
+        "Food Decoration"
+    ],
+    "details": {
+        "MasterChef Challenge": {
+            "title": "Culinary Showdown",
+            "teamSize": "2 (min) - 4 members",
+            "participants": "1 team per class",
+            "venue": "Between Main building & IT building",
+            "date": "1st February 2024",
+            "time": "1:00 PM to 3:00 PM",
+            "coordinators": [
+                {
+                    "name": "Kaushiki Khabri",
+                    "contact": "9975463894"
+                },
+                {
+                    "name": "Chaitrali Kharat",
+                    "contact": "7030947919"
+                }
+            ],
+            "overview": "The MasterChef Challenge is a culinary competition designed to showcase the culinary skills, creativity, and adaptability of college students. Participants will face unique challenges, testing their ability to create exceptional dishes under time constraints and unexpected twists.",
+            "rules": [
+                "Registrations for all events will be taken through the Gandhaar App only.",
+                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
+                "Teams are required to plan and prepare a complete three-course meal, including a starter, main course, and dessert.",
+                "Teams can decide what dishes they wish to prepare.",
+                "Repetition of the same dish is not allowed.",
+                "Teams must prepare 100% veg recipes (NO egg/ non-veg recipes)",
+                "Ingredients, induction/stove or any cooking equipment won't be provided by the organizers. Teams shall bring their own if required. Connection points will be provided.",
+                "Teams must complete the preparation and presentation of all dishes within a time limit of 1 hour and 15 minutes. Subsequently, judges will spend the next 45 minutes evaluating each team's dishes.",
+                "Twice during the entire competition, each team has to pick up a chit and face some challenges like blindfolded cooking, handcuffs, performing some dance moves, no cooking for 5 minutes and many more.",
+                "Dishes will be judged on taste, presentation, creativity, and the completeness of the three-course meal.",
+                "Teams are responsible for cleaning their workspace after the event.",
+                "Professionalism and sportsmanship are expected.",
+                "Teams must adhere to safety and hygiene standards.",
+                "The organizing committee reserves the right to make decisions in unforeseen circumstances or disputes."
+            ]
+        },
+
+        "Food Decoration": {
+            "title": "Food Decoration",
+            "teamSize": "2 members (minimum)/ 4 members (maximum)",
+            "participants": "1 participant per class",
+            "venue": "Between Main building & IT building",
+            "date": "2nd February 2024",
+            "time": "10:00 AM to 12:00 PM",
+            "coordinators": [
+                {
+                    "name": "Revati Shrikhande",
+                    "contact": "9405118170"
+                },
+                {
+                    "name": "Konkana Dutta",
+                    "contact": "9511853081"
+                }
+            ],
+            "overview": "The Vegetable/Fruit Decoration Contest is a delightful event where participants showcase their artistic skills by transforming ordinary fruits and vegetables into extraordinary works of art. This event is a celebration of aesthetics, innovation, and healthy creativity.",
+            "rules": [
+                "Registrations for all events will be taken through the Gandhaar App only.",
+                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
+                "Participants must bring all the vegetables, fruits, decorative plates, and all the needed material for the competition.",
+                "Participants must ONLY use fruits and vegetables for decoration.",
+                "Additional materials such as toothpicks, skewers, and small cutting tools may be used for assembly.",
+                "Teams must complete the preparation and presentation of all decorations within a time limit of 1 hour and 15 minutes. Subsequently, judges will spend the next 45 minutes evaluating each team's presentation.",
+                "Repetition of the same decoration is not allowed.",
+                "Teams must use 100% veg items (NO egg)",
+                "Twice during the entire competition, each team has to pick up a chit and face some challenges like blindfolded carving, handcuffs, performing some dance moves, no decorating for 5 minutes and many more.",
+                "Teams will be provided with a designated workspace where they can arrange their decorations.",
+                "Judging will be based on the Creativity and Originality, Adherence to the mentioned ingredients, Skill in Carving and Arrangement, Overall Aesthetic Appeal, Innovative Use of Materials and the number of decorative items.",
+                "No artificial colors or non-edible materials are allowed.",
+                "Pre-cut fruits/vegetables are not permitted.",
+                "Participants must handle cutting tools with care.",
+                "Teams are responsible for cleaning their workspace after the event."
+            ]
+        }
+        
+    }
+}

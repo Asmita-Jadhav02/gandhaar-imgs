@@ -1,0 +1,119 @@
+{
+    "tabs": [
+        "Trashion",
+        "Beauty Pageant",
+        "B.Tech Fashion Show"
+    ],
+    "details": {
+        "Trashion": {
+            "title": "Trashion",
+            "teamSize": "3 members (1 model + 2 designers)",
+            "participants": "1 team per class",
+            "venue": "Main Building Quadrangle",
+            "date": "3rd February 2024",
+            "time": "4:00 PM to 6:00 PM",
+            "coordinators": [
+                {
+                    "name": "Nikita Patil",
+                    "contact": "9372412382"
+                },
+                {
+                    "name": "Gayatri Muttepawar",
+                    "contact": "7030625829"
+                }
+            ],
+            "rules": [
+                "Registrations for all events will be taken through the Gandhaar App only.",
+                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
+                "The theme for trashion this year is 'OSCAR NIGHT OUTFITS'",
+                "Teams are permitted to commence the creation of their dresses right after registering for the competition.",
+                "The team will have to present their costume in front of the judges on the day of the event and will have to explain their creative usage of trash.",
+                "Participants have the creative freedom to use a wide array of trash items, including cans, bottle caps, chips packets, old cloth cutouts, trash bags, bottles, cans, cups, used plates, electronic waste, used bubble wrap, combs, newspaper, etc. The entire dress must be crafted from scratch using these materials.",
+                "Teams are encouraged to earn additional points by crafting accessories from scratch. This includes items such as heels, bags, earrings, hair accessories, necklaces, and more.",
+                "The complete dress, including accessories, must be entirely made from scratch. No pre-made or purchased items are allowed.",
+                "JUDGING CRITERIA - Judging criteria include Creativity, Sustainability, Craftsmanship, Overall Impression, and Impact. Additional points may be awarded for crafting accessories from scratch.",
+                "The participants are requested to maintain decency and decorum. Indecent/Vulgar costume will lead to a reduction of points.",
+                "Too revealing and short (above knee length) costumes will lead to disqualification."
+            ]
+        },
+        "Beauty Pageant": {
+            "title": "Glamour Gala",
+            "teamSize": "1",
+            "participants": "50 registrations (First come first serve)",
+            "venue": "Main Building Quadrangle",
+            "date": "2nd February 2024",
+            "time": "9:00 AM to 11:00 AM",
+            "coordinators": [
+                {
+                    "name": "Asmita Jadhav",
+                    "contact": "9765408783"
+                },
+                {
+                    "name": "Vanshika Raina",
+                    "contact": "6006519294"
+                }
+            ],
+            "rules": [
+                "Registrations for all events will be taken through the Gandhaar App only.",
+                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
+                "The deadline for applying for Beauty Pageant is 15 January, 2024.",
+                "Elimination Round would be conducted on 17 January, 2024 in person.",
+                "For Elimination round, each participant is supposed to bring and submit at least 3-4 pictures as a portfolio.",
+                "Participants need to fill a questionnaire which would be distributed and collected in person on a date which would be declared by the event coordinators after the registration closes.",
+                "There will be a total of 3 rounds on the day of events.",
+                "<strong>Round 1:</strong> Walk and Introduction ",
+                "<strong>Round 2:</strong> Talent Round ",
+                "<strong>Round 3:</strong> Question and Answer Round .",
+                "Each of these rounds would be elimination rounds.",
+                "The ramp walk must be between 30 sec - 1 min.",
+                "Introduction should not exceed 30 sec.",
+                "Each person has to limit their Talent Performance (Dance, Music, etc) to 3 mins.",
+                "You will be judged on 5 categories (costume, walk, talent, personality, and stage presence).",
+                "Awards for the Beauty pageant :",
+                "i. Miss Cummins (Winner and 1st runner up),",
+                "ii. Best personality,",
+                "iii. Best fashion sense.",
+                "Inappropriate costume/dress would lead to disqualification.",
+                "Judge's decision will be final and binding and should be accepted gracefully."
+            ]
+        },
+        "B.Tech Fashion Show": {
+            "title": "Fashion Fusion",
+            "teamSize": "18 - 21 students (14-17 performers + 4 for lights, costumes, hair, makeup, music management)",
+            "participants": "1 team from each FINAL YEAR class",
+            "venue": "Samstha Ground",
+            "date": "31st January 2024",
+            "time": "6:00 PM to 9:00 PM",
+            "coordinators": [
+                {
+                    "name": "Saniya Pawar",
+                    "contact": "7030625829"
+                },
+                {
+                    "name": "Srushti Nikam",
+                    "contact": "8308801800"
+                }
+            ],
+            "rules": [
+                "Registrations for all events will be taken through the Gandhaar App only.",
+                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
+                "Performance time for each team is 13 minutes + 1 minute for stage setup & clearance.",
+                "There is no theme for the fashion show. You are free to select any theme and will be judged accordingly.",
+                "Marking will be based on originality of ideas, props, costumes and choreography.",
+                "The participants are requested to maintain a certain amount of decency, performing any act or moves which are vulgar or indecent will lead to disqualification.",
+                "The participants are requested to be on time for the meetings and should report at least 1.5 hrs before their event and confirm their presence with the event coordinator. Any delay in the schedule will cause reduction in points.",
+                "The music track for the performance must be submitted as and when instructed by the coordinators: Any delay in track submission will result in reduction of points.",
+                "For any other specific requirements, the team leaders should complete the requirements form as and when instructed by the coordinators.",
+                "Use only simple props which can be carried in and out of the stage right before and after the performance are allowed.",
+                "The Prop preparations and arrangement will completely be the team's responsibility.",
+                "Registration of themes will be done on a first come first serve basis. In case of repetition of themes or tracks, the coordinators will inform the heads and the team which filled the form first will be allowed to use the theme/track.",
+                "The slots allotted by the organizers will be final and will not be changed.",
+                "Participants are strictly instructed to NOT use any college property like the library or reading halls during their practice. If found the team will be disqualified.",
+                "Permission for practice venues and outside choreographers is the team’s responsibility and the event coordinators should be informed about this beforehand.",
+                "Only females will be involved in costume fittings for the performance.",
+                "There will be only one team head in a team.",
+                "The decision of the coordinators will be final."
+            ]
+        }
+    }
+}

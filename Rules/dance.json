@@ -1,0 +1,155 @@
+{
+    "tabs": [
+        "Street Dance",
+        "Solo Dance",
+        "Classical Dance",
+        "Group Dance"
+    ],
+    "details": {
+        "Street Dance": {
+            "title": "Street Battle Galore",
+            "teamSize": "1",
+            "participants": "1 participant per class",
+            "venue": "Stage 2",
+            "date": "2nd February 2024",
+            "time": "10:00 AM to 12:00 PM",
+            "coordinators": [
+                {
+                    "name": "Ashlesha Jagtap",
+                    "contact": "9420482496"
+                },
+                {
+                    "name": "Tejaswini Patkar",
+                    "contact": "9730044087"
+                }
+            ],
+            "overview": "This event brings together 36 participants in a battle of rhythm, style, and expression, culminating in an intense face-off for the ultimate dance glory.",
+            "rules": [
+                "Registrations for all events will be taken through the Gandhaar App only.",
+                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
+                "Opponents for each round will be decided on the spot during the event.",
+                "The organizers will randomly select and play music to which participants will perform in all rounds.",
+                "Each face-off will be of 2 minutes. Adherence to the time limit is crucial.",
+                "Judging will be based on **Technique and Skill, Synchronization, Creativity and Originality, Stage Presence and Showmanship**.",
+                "Any form of disrespectful behavior, including inappropriate gestures or actions, will result in disqualification.",
+                "Classical and Folk dances are not a part of this competition. (Please refer to the rules of the classical dance competition).",
+                "The participants are expected to observe a level of decency and refrain from making racial, religious or offensive remarks.",
+                "Simple props which can be carried in and out of the stage right before the performance are permitted.",
+                "The decisions of the judges and organizers will be final and binding.",
+                "<b>Format :</b>",
+                "Initially, there will be 36 participants.",
+                "In the first round, chits are used to randomly pair up all 36 participants in groups of two. Each pair competes, and the winner from each advances.",
+                "Using the same chit method, the 18 winners are paired in the second round, resulting in 9 participants moving forward.",
+                "Using the same chit method, the 9 winners are paired in the third round in groups of three.",
+                "Finally, the last 3 winners, determined by chits, face off in the ultimate round to decide the competition winner.",
+                "NOTE - The structure of rounds and faceoffs is subject to change if the number of participating students is less than 36."
+            ]
+        },
+
+        "Solo Dance": {
+            "title": "Nach Kudiye",
+            "teamSize": "1",
+            "participants": "1 participant per class",
+            "venue": "Stage 2",
+            "date": "2nd February 2024",
+            "time": "1:30 PM to 4:30 PM",
+            "coordinators": [
+                {
+                    "name": "Janhavi Mishra",
+                    "contact": "9569403452"
+                },
+                {
+                    "name": "Konkana Dutta",
+                    "contact": "9511853081"
+                }
+            ],
+            "rules": [
+                "Registrations for all events will be taken through the Gandhaar App only.",
+                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
+                "The allotted performance time is 3 minutes (extra 1 minute for stage setup & clearance). Points will be deducted for exceeding the time limit.",
+                "Classical dance is not allowed for this competition. Refer to the rules of the classical dance competition for those specific guidelines.",
+                "Participants are required to maintain decency and must refrain from making any racial, religious, or offensive remarks.",
+                "Simple props that can be carried onto and off the stage just before the performance are allowed.",
+                "The soundtrack of the performance has to be submitted on time as and when instructed by the coordinators. No changes can be made to the sound track once it's submitted.",
+                "The judges' decision will be final and binding.",
+                "Any delays on account of participants or non-compliance of rules will lead to disqualification."
+            ]
+        },
+
+        "Classical Dance": {
+            "title": "Nitryagandh",
+            "teamSize": "1 (minimum)/ 5 (maximum)",
+            "participants": "1 team per class",
+            "venue": "Main Building Quadrangle",
+            "date": "3rd February 2024",
+            "time": "9:00 AM to 12:00 PM",
+            "coordinators": [
+                {
+                    "name": "Tvesha Pophali",
+                    "contact": "7028099791"
+                },
+                {
+                    "name": "Pragati Chandra",
+                    "contact": "8624040389"
+                }
+            ],
+            "rules": [
+                "Registrations for all events will be taken through the Gandhaar App only.",
+                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
+                "The allotted performance time is 3 minutes (extra 1 minute for stage setup & clearance). Points will be deducted for exceeding the time limit.",
+                "Only the use of simple props that can be carried in and out of the stage right before the performance is permitted.",
+                "The soundtrack of the performance has to be submitted on time as and when instructed by the coordinators. No changes can be made to the sound track once it's submitted.",
+                "The participants are expected to observe decency and refrain from making racial, religious, or offensive remarks.",
+                "The decision of the judges will be final and binding.",
+                "During the application process, it's compulsory to mention the level/exams of the dance form you have chosen.",
+                "You will be short-listed only if you have qualified for any of the exams of your dance form.",
+                "To maintain the authenticity of the performances, participants are to refrain from incorporating fusion or semi-classical elements into their performances.",
+                "Participants should wear traditional costumes authentic to their chosen dance form.",
+                "All songs are acceptable (considering the decency level). The use of classical music that complements the chosen dance style is highly recommended.",
+                "Any delays on account of participants or non-compliance of rules will lead to disqualification."
+            ]
+        },
+
+        "Group Dance": {
+            "title": "Intra-college",
+            "teamSize": "12-19 (9-16 performers + 3 volunteers)",
+            "participants": "1 team from each class",
+            "venue": "Main Building Quadrangle",
+            "date": "31st January 2024",
+            "time": "12:30 PM to 6:00 PM",
+            "coordinators": [
+                {
+                    "name": "Smruti Khatawkar",
+                    "contact": "9850149839"
+                },
+                {
+                    "name": "Kaushiki Khabri",
+                    "contact": "9975463894"
+                }
+                
+            ],
+            "rules": [
+                "Registrations for all events will be taken through the Gandhaar App only.",
+                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
+                "Teams have the liberty to select the songs/ theme/ dance style.",
+                "Marks will be allotted based on theme, dancing skills, originality of ideas and use of props, costumes, and choreography.",
+                "Theme for the dance may not be compulsory but having one would help in receiving additional points.",
+                "The participants are expected to observe a level of decency and refrain from making racial, religious or offensive remarks.",
+                "Revealing costumes won't be allowed. Teams need to get their costumes verified with the coordinators as and when asked to do so.",
+                "Only use of simple props which can be carried in and out of the stage right before the performance is permitted.",
+                "The soundtrack of the performance has to be submitted on time as and when instructed by the coordinators.",
+                "A song may be repeated only twice.",
+                "Theme of the dance cannot be repeated.",
+                "Registration of the songs and themes will be done on a first come first serve basis.",
+                "All the songs submitted by the team have to be used in the final soundtrack.",
+                "Any delay on account of the participants or non-compliance of rules will lead to disqualification.",
+                "Schedule for rehearsal on the stage will be shared by the coordinators.",
+                "Decisions taken by the event coordinators would be final."
+            ]
+        }
+        
+        
+        
+        
+    }
+}

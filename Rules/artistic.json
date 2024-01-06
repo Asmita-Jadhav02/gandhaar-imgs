@@ -1,0 +1,42 @@
+{
+    "tabs": [
+        "Sketching"
+
+    ],
+    "details": {
+        "Sketching": {
+            "title": "Pencil Perception",
+            "teamSize": "1",
+            "participants": "1 student per class",
+            "venue": "Between Main building & IT building",
+            "date": "31st January 2024",
+            "time": "2:00 PM to 3:30 PM",
+            "coordinators": [
+                {
+                    "name": "Akanksha Kulkarni",
+                    "contact": "8010467189"
+                },
+                {
+                    "name": "Isha Mahajan",
+                    "contact": "7558422510"
+                }
+            ],
+            "rules": [
+                "Only 1 student per class can participate.",
+                "Registrations for all events will be taken through the Gandhaar App only.",
+                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
+                "Theme will be declared 1 week prior to the competition.",
+                "A3 Drawing sheets will be provided by the College.",
+                "Participants are required to bring their own stationary.",
+                "Use of Phone/Internet is strictly prohibited.",
+                "No stencils allowed.",
+                "Only pencils, black pens, color pencils, and black sketch pens are allowed.",
+                "The artist must submit their sketches within a maximum time limit of 90 minutes.",
+                "Winners will be given merit certificates and participants will be getting participation E-certificates.",
+                "The decision of the judges will be final and binding.",
+                "Winners will be announced during the Prize distribution ceremony. (3rd February 2024, 6:00 PM)"
+            ]
+        }
+        
+    }
+}
