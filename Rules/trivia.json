@@ -1,1 +1,78 @@
+{
+    "category_title": "Trivia Troop",
+    "tabs": [
+        "Clue Quest",
+        "World Screen Whiz War"
+    ],
+    "details": {
+        "Clue Quest": {
+            "title": "Treasure Hunt",
+            "teamSize": "2",
+            "participants": "1 team from each class",
+            "venue": "Stage 2",
+            "date": "3rd February 2024",
+            "time": "10:30 AM to 12:30 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Kanak Daulatani",
+                    "contact": "9075893748"
+                },
+                {
+                    "name": "Janhavi Bhopale",
+                    "contact": "9156049847"
+                }
+            ],
+            "overview": "Embark on an adventurous Treasure Hunt with unique maps and strategic clues! In Round 1, students and faculties compete separately, and winners face off in Round 2 for an even more thrilling challenge. Respect the clues, follow the rules, and let the spirit of teamwork shine. Judges' decisions are final, with recognition for creativity and sportsmanship!",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+                "Each team will be provided with a unique treasure map.",
+                "Clues will be strategically placed around the campus.",
+                "Teams are required to follow the clues sequentially.",
+                "In Round 1, students & faculties will compete separately, and the winners (2 pairs from students and 2 from faculties) will compete in Round 2.",
+                "Final Score of Round 1 will be based on the time taken to complete the hunt. (Teams must return to the starting point within the stipulated time.)",
+                "In Round 2, students will face off against faculty in another thrilling round of treasure hunt with a higher level of difficulty, where teams will have to search for clues to reach the final Treasure.",
+                "Please do not tamper with the clues and ruin the fun of the game.",
+                "Participants must adhere to college rules and guidelines during the event.",
+                "Respect for campus property and fellow participants is mandatory.",
+                "Participants are requested to arrive at the venue 30 minutes prior to the scheduled time.",
+                "Decisions taken by the judges and event coordinator will be final. (Recognition for creativity, teamwork, and sportsmanship will also be acknowledged.)"
+            ]
+        },
+        "World Screen Whiz War": {
+            "title": "All In One Quiz",
+            "teamSize": "5",
+            "participants": "1 team from each class",
+            "venue": "KB Joshi Auditorium",
+            "date": "2nd February 2024",
+            "time": "12:00 PM to 2:00 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Aslesha Rathod",
+                    "contact": "8857065433"
+                },
+                {
+                    "name": "Tvesha Pophali",
+                    "contact": "7028099791"
+                }
+            ],
+            "overview": "Gear up for three exciting rounds in the Quizmania event! From text-based questions to enacting scenes in a bonus round, and finally, a buzzer round testing your quick thinking. Only the sharpest minds will prevail.",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+                "The competition will involve 3 rounds.",
+                "Round 1 will be an Elimination round.",
+                "Text questions based on Bollywood/Hollywood/Anime or K-drama.",
+                "Out of 10 teams, only 8 will be selected for the next round.",
+                "Round 2 will be the Bonus round.",
+                "This round will be similar to Dumb Charades. You will have to enact the scene/song.",
+                "Only 6 teams will go forward to the last round.",
+                "Round 3 will be the Buzzer round.",
+                "In the last round, you will be shown images for a limited time period after which you'll have to guess the answer.",
+                "This is the 'fastest finger first' round.",
+                "Any decision taken by the Event Coordinators will be FINAL."
+            ]
+        }
+    }
+}
 
