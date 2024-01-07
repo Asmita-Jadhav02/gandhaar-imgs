@@ -1,17 +1,19 @@
 {
+    "category_title": "Runway Battles",
     "tabs": [
-        "Trashion",
-        "Beauty Pageant",
-        "B.Tech Fashion Show"
+        "Scrap Couture",
+        "Miss Cummins",
+        "Vogue Runway"
     ],
     "details": {
-        "Trashion": {
+        "Scrap Couture": {
             "title": "Trashion",
             "teamSize": "3 members (1 model + 2 designers)",
             "participants": "1 team per class",
             "venue": "Main Building Quadrangle",
             "date": "3rd February 2024",
             "time": "4:00 PM to 6:00 PM",
+            "registration_link": "",
             "coordinators": [
                 {
                     "name": "Nikita Patil",
@@ -22,27 +24,32 @@
                     "contact": "7030625829"
                 }
             ],
+            "overview": "Transform trash into fashion at our 'Oscar Night Outfits' Trashion event! Teams craft entire outfits and accessories from recycled materials, earning points for creativity, sustainability, and craftsmanship. It's a runway where style meets sustainability!",
             "rules": [
-                "Registrations for all events will be taken through the Gandhaar App only.",
-                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
-                "The theme for trashion this year is 'OSCAR NIGHT OUTFITS'",
+                 "<strong>Upon completion of registration, kindly note that it will be considered as final, no alterations will be accommodated under any circumstances.</strong>",
+                "The theme for trashion this year is ‘OSCAR NIGHT OUTFITS’",
                 "Teams are permitted to commence the creation of their dresses right after registering for the competition.",
-                "The team will have to present their costume in front of the judges on the day of the event and will have to explain their creative usage of trash.",
-                "Participants have the creative freedom to use a wide array of trash items, including cans, bottle caps, chips packets, old cloth cutouts, trash bags, bottles, cans, cups, used plates, electronic waste, used bubble wrap, combs, newspaper, etc. The entire dress must be crafted from scratch using these materials.",
+                "Participants have the creative freedom to use a wide array of trash items, including cans, bottle caps, chips packets, old cloth cutouts, trash bags, bottles, cans, cups, used plates, electronic waste, used bubble wrap, combs, newspaper, etc. The entire dress must be crafted from scratch using trash material.",
+                "The entire dress must be crafted from scratch using trash material.",
                 "Teams are encouraged to earn additional points by crafting accessories from scratch. This includes items such as heels, bags, earrings, hair accessories, necklaces, and more.",
                 "The complete dress, including accessories, must be entirely made from scratch. No pre-made or purchased items are allowed.",
-                "JUDGING CRITERIA - Judging criteria include Creativity, Sustainability, Craftsmanship, Overall Impression, and Impact. Additional points may be awarded for crafting accessories from scratch.",
+                "The team will have to present their costume in front of the judges on the day of the event and will have to explain their creative usage of trash.",
+                "Each team will have a minute for the fashion walk followed by a 2-minute Q&A (question and answer) round on the day of the event.",
+                "Each team has the liberty to choose the soundtrack for the walk. The track should be submitted as and when asked by the coordinators.",
+                "JUDGING CRITERIA - Judging criteria include creativity, sustainability, craftsmanship, overall Impression, and impact. Additional points may be awarded for crafting accessories from scratch.",
                 "The participants are requested to maintain decency and decorum. Indecent/Vulgar costume will lead to a reduction of points.",
-                "Too revealing and short (above knee length) costumes will lead to disqualification."
+                "Too revealing and short (above knee length) costumes will lead to disqualification.",
+                "The organizing committee reserves the right to make decisions in unforeseen circumstances or disputes."
             ]
         },
-        "Beauty Pageant": {
-            "title": "Glamour Gala",
+        "Miss Cummins": {
+            "title": "Beauty Pageant",
             "teamSize": "1",
-            "participants": "50 registrations (First come first serve)",
+            "participants": "100 registrations (First come first serve)",
             "venue": "Main Building Quadrangle",
             "date": "2nd February 2024",
-            "time": "9:00 AM to 11:00 AM",
+            "time": "9:00 AM to 11:00 AM", 
+            "registration_link": "",
             "coordinators": [
                 {
                     "name": "Asmita Jadhav",
@@ -53,37 +60,32 @@
                     "contact": "6006519294"
                 }
             ],
+            "overview": "Dive into the glamour with our Miss Cummins! Adorn yourself according to the theme, with two rounds—Ramp Walk and Q&A testing personality and intelligence. Shine in five categories: costume, ramp walk/modeling, fashion, personality, and stage presence. Awards await, from Miss Cummins to Best Personality—let the elegance and charm steal the spotlight!",
             "rules": [
-                "Registrations for all events will be taken through the Gandhaar App only.",
-                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
-                "The deadline for applying for Beauty Pageant is 15 January, 2024.",
-                "Elimination Round would be conducted on 17 January, 2024 in person.",
-                "For Elimination round, each participant is supposed to bring and submit at least 3-4 pictures as a portfolio.",
-                "Participants need to fill a questionnaire which would be distributed and collected in person on a date which would be declared by the event coordinators after the registration closes.",
-                "There will be a total of 3 rounds on the day of events.",
-                "<strong>Round 1:</strong> Walk and Introduction ",
-                "<strong>Round 2:</strong> Talent Round ",
-                "<strong>Round 3:</strong> Question and Answer Round .",
-                "Each of these rounds would be elimination rounds.",
+                "<strong>Upon completion of registration, kindly note that it will be considered as final, no alterations will be accommodated under any circumstances.</strong>",
+                "The deadline for applying for Miss Cummins is <b>15 January 2024.</b>",
+                "Elimination Round would be conducted on 17 January 2024 in person.",
+                "For the elimination round, each participant must bring and submit at least 3-4 pictures as a portfolio.",
+                "Participants need to fill a questionnaire which would be distributed and collected in person during this elimination round (17th January 2024)",
+                "There will be a total of 3 rounds on the day of events.<ul><li><b>Round 1:</b> Walk and Introduction</li><li><b>Round 2:</b> Talent Round</li><li><b>Round 3:</b> Question and Answer Round.</li></ul>",
+                "Each of these rounds will have elimination.",
                 "The ramp walk must be between 30 sec - 1 min.",
                 "Introduction should not exceed 30 sec.",
                 "Each person has to limit their Talent Performance (Dance, Music, etc) to 3 mins.",
                 "You will be judged on 5 categories (costume, walk, talent, personality, and stage presence).",
-                "Awards for the Beauty pageant :",
-                "i. Miss Cummins (Winner and 1st runner up),",
-                "ii. Best personality,",
-                "iii. Best fashion sense.",
+                "Awards for the Miss Cummins Pageant:<ul><li>i. Miss Cummins (Winner)</li><li>ii. Best personality,</li><li>iii. Best fashion sense.</li></ul>",
                 "Inappropriate costume/dress would lead to disqualification.",
-                "Judge's decision will be final and binding and should be accepted gracefully."
+                "Judge’s decision will be final and binding and should be accepted gracefully."
             ]
         },
-        "B.Tech Fashion Show": {
-            "title": "Fashion Fusion",
+        "Vogue Runway": {
+            "title": "B.Tech Fashion Show",
             "teamSize": "18 - 21 students (14-17 performers + 4 for lights, costumes, hair, makeup, music management)",
             "participants": "1 team from each FINAL YEAR class",
             "venue": "Samstha Ground",
             "date": "31st January 2024",
             "time": "6:00 PM to 9:00 PM",
+            "registration_link": "",
             "coordinators": [
                 {
                     "name": "Saniya Pawar",
@@ -94,19 +96,20 @@
                     "contact": "8308801800"
                 }
             ],
+            "description": "Prepare for a fashion journey where your creativity takes center stage! This show breaks free from strict themes, encouraging you to unleash your originality with cool ideas, props, amazing costumes, and some stylish dance moves. Keep it classy, and let your performance be the voice. It's your moment to shine on stage, and every decision you make contributes to your extraordinary fashion adventure!",
             "rules": [
-                "Registrations for all events will be taken through the Gandhaar App only.",
-                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
+                "This event is exclusively for final-year students.",
+                "<strong>Upon completion of registration, kindly note that it will be considered as final, no alterations will be accommodated under any circumstances.</strong>",
                 "Performance time for each team is 13 minutes + 1 minute for stage setup & clearance.",
-                "There is no theme for the fashion show. You are free to select any theme and will be judged accordingly.",
-                "Marking will be based on originality of ideas, props, costumes and choreography.",
+                "There is NO theme for the fashion show. You are free to select any theme and will be judged accordingly.",
+                "Marking will be based on originality of ideas, props, costumes, and choreography.",
                 "The participants are requested to maintain a certain amount of decency, performing any act or moves which are vulgar or indecent will lead to disqualification.",
-                "The participants are requested to be on time for the meetings and should report at least 1.5 hrs before their event and confirm their presence with the event coordinator. Any delay in the schedule will cause reduction in points.",
-                "The music track for the performance must be submitted as and when instructed by the coordinators: Any delay in track submission will result in reduction of points.",
+                "The participants are requested to be on time for the meetings and should report at least 1.5 hrs before their event and confirm their presence with the event coordinator. Any delay in the schedule will cause a reduction in points.",
+                "The music track for the performance must be submitted as and when instructed by the coordinators: Any delay in track submission will result in a reduction of points.",
                 "For any other specific requirements, the team leaders should complete the requirements form as and when instructed by the coordinators.",
                 "Use only simple props which can be carried in and out of the stage right before and after the performance are allowed.",
                 "The Prop preparations and arrangement will completely be the team's responsibility.",
-                "Registration of themes will be done on a first come first serve basis. In case of repetition of themes or tracks, the coordinators will inform the heads and the team which filled the form first will be allowed to use the theme/track.",
+                "Registration of themes will be done on a first-come, first-serve basis. In case of repetition of themes or tracks, the coordinators will inform the heads and the team which filled the form first will be allowed to use the theme/track.",
                 "The slots allotted by the organizers will be final and will not be changed.",
                 "Participants are strictly instructed to NOT use any college property like the library or reading halls during their practice. If found the team will be disqualified.",
                 "Permission for practice venues and outside choreographers is the team’s responsibility and the event coordinators should be informed about this beforehand.",
