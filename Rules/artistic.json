@@ -1,17 +1,23 @@
 {
     "category_title": "Creative Showcases",
     "tabs": [
-        "Sketching"
+         "Sketch Saga",
+    "Doodle Derby",
+    "Portrait Pursuit",
+    "Stitches & Sneek",
+    "Relay Rangaarang",
+    "Palette Battle"
 
     ],
     "details": {
-        "Sketching": {
-            "title": "Pencil Perception",
+        "Sketch Saga": {
+            "title": "Sketching",
             "teamSize": "1",
             "participants": "1 student per class",
             "venue": "Between Main building & IT building",
             "date": "31st January 2024",
-            "time": "2:00 PM to 3:30 PM",
+            "time": "12:30 PM to 2:00 PM",
+      "registration_link": "",
             "coordinators": [
                 {
                     "name": "Akanksha Kulkarni",
@@ -22,22 +28,57 @@
                     "contact": "7558422510"
                 }
             ],
-            "rules": [
+            "overview": "Unlock your artistic potential in our Sketching Event! Embrace the joy of creating with strokes of imagination. Join us for a celebration of creativity, where every sketch tells a unique story – participate and let your artistic spirit flourish on our canvas of inspiration!",
+      "rules": [
                 "Only 1 student per class can participate.",
-                "Registrations for all events will be taken through the Gandhaar App only.",
-                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
-                "Theme will be declared 1 week prior to the competition.",
-                "A3 Drawing sheets will be provided by the College.",
-                "Participants are required to bring their own stationary.",
-                "Use of Phone/Internet is strictly prohibited.",
-                "No stencils allowed.",
-                "Only pencils, black pens, color pencils, and black sketch pens are allowed.",
-                "The artist must submit their sketches within a maximum time limit of 90 minutes.",
-                "Winners will be given merit certificates and participants will be getting participation E-certificates.",
-                "The decision of the judges will be final and binding.",
-                "Winners will be announced during the Prize distribution ceremony. (3rd February 2024, 6:00 PM)"
+        "<strong>Upon completion of registration, kindly note that it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+        "Participants have the liberty to sketch anything according to their preference.",
+        "A3 Drawing sheets will be provided by the College.",
+        "Participants are required to bring their own stationary.",
+        "Use of Phone/Internet is strictly prohibited.",
+        "No stencils allowed.",
+        "Only pencils, black pens, color pencils, and black sketch pens are allowed.",
+        "The artist must submit their sketches within a maximum time limit of 90 minutes.",
+        "Winners will be given merit certificates, and participants will be getting participation E-certificates.",
+        "The decision of the judges will be final and binding.",
+        "Some of the best sketches will be displayed at the Art gallery on 2nd February, 2024."
             ]
+        },
+
+        "Doodle Derby": {
+      "title": "Doodling Competition",
+      "teamSize": "3",
+      "participants": "1 team per class",
+      "venue": "Between Main building & IT building",
+      "date": "31st January 2024",
+      "time": "3:30 PM to 5:00 PM",
+      "registration_link": "",
+      "coordinators": [
+        {
+          "name": "Siddhi Jadhav",
+          "contact": "9577760555"
+        },
+        {
+          "name": "Vedika Potey",
+          "contact": "7083482066"
         }
+      ],
+      "overview": "Dive into the world of spontaneous creativity with our Doodling Event with a Twist! Unleash your imagination as you add unexpected elements to your doodles. Join us for a uniquely vibrant experience – where every stroke is a surprise and every participant is an artist with a twist!",
+      "rules": [
+        "<strong>Upon completion of registration, kindly note that it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+        "No wifi services will be provided. Participants are required to make their arrangements for the same.",
+        "Time for doodling - 90 Mins.",
+        "A3 size white sheets will be provided to all the participants.",
+        "Participants must carry their stationary.",
+        "Only black-colored sketch pens or markers are allowed.",
+        "Judging criteria: <ul><li>Artistic merit.</li><li>Creativity and originality,</li><li>Cleanliness in drawing,</li><li>Communication of content theme in both the drawing and supporting statements</li><li>Adherence to the rules</li></ul>",
+        "Decisions taken by judges/coordinators will be final.",
+        "Some of the best sketches will be displayed at the Art gallery on 2nd February, 2024.",
+        "<b>Format</b><ul><li>The theme for the doodle will be revealed to all participants at the beginning of the competition.</li><li>Teams can collectively decide what they want to draw. Time will be allotted for brainstorming on the theme. (Use of mobile phones will be allowed for 10 mins)</li><li>Only one person from a team of three students is allowed to doodle at a time.</li><li>The doodling will commence with the first team member. A whistle will be blown randomly by coordinators signaling the next team member to start doodling.</li><li>Each team member will take turns doodling during the rotation, with a whistle indicating when to switch to the next participant.</li><li>TWIST- While one team member is doodling, the other team members must refrain from viewing the ongoing doodle until the whistle blows for the next participant.</li></ul>"
+      ]
+    }
+
+        
         
     }
 }
