@@ -12,7 +12,7 @@
     "details": {
         "Sketch Saga": {
             "title": "Sketching",
-            "teamSize": "1",
+            "teamSize": "1 member",
             "participants": "1 student per class",
             "venue": "Between Main building & IT building",
             "date": "31st January 2024",
@@ -47,7 +47,7 @@
 
         "Doodle Derby": {
       "title": "Doodling Competition",
-      "teamSize": "3",
+      "teamSize": "3 members",
       "participants": "1 team per class",
       "venue": "Between Main building & IT building",
       "date": "31st January 2024",
@@ -76,7 +76,151 @@
         "Some of the best sketches will be displayed at the Art gallery on 2nd February, 2024.",
         "<b>Format</b><ul><li>The theme for the doodle will be revealed to all participants at the beginning of the competition.</li><li>Teams can collectively decide what they want to draw. Time will be allotted for brainstorming on the theme. (Use of mobile phones will be allowed for 10 mins)</li><li>Only one person from a team of three students is allowed to doodle at a time.</li><li>The doodling will commence with the first team member. A whistle will be blown randomly by coordinators signaling the next team member to start doodling.</li><li>Each team member will take turns doodling during the rotation, with a whistle indicating when to switch to the next participant.</li><li>TWIST- While one team member is doodling, the other team members must refrain from viewing the ongoing doodle until the whistle blows for the next participant.</li></ul>"
       ]
-    }
+    },
+        "Portrait Pursuit": {
+            "title": "Portrait drawing Competition",
+            "teamSize": "1 member",
+            "participants": "1 student per class",
+            "venue": "Mechanical circle",
+            "date": "1st February 2024",
+            "time": "10:00 AM to 12:00 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Akanksha Kulkarni",
+                    "contact": "8010467189"
+                },
+                {
+                    "name": "Tanaya Bhanjale",
+                    "contact": "7385125917"
+                }
+            ],
+            "overview": "Immerse yourself in the art of portraiture in our Portrait Drawing Event! Capture the essence of faces with your unique perspective, and join us in celebrating the beauty of individual expression. Participate and let your strokes create captivating stories on the canvas of creativity! ",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+                "Only 1 student per class can participate.",
+                "At the beginning of the competition, a common object will be declared as the subject of the portrait.",
+                "Participants must use their creativity to draw a portrait of the assigned object, infusing it with personality, emotions, or imaginative elements.",
+                "A3 drawing sheets will be provided by the College.",
+                "Participants must bring their drawing materials.",
+                "No stencils allowed.",
+                "The artist must complete the portrait within a maximum time limit of 120 minutes.",
+                "Use of mobile phones is strictly prohibited.",
+                "Participants must adhere to the spirit of fair play and sportsmanship.",
+                "Any violation of rules or unsportsmanlike conduct may result in disqualification.",
+                "The organising committee reserves the right to make decisions in unforeseen circumstances or disputes.",
+                "The portrait should not contain any offensive or inappropriate content. Such portraits will be disqualified.",
+                "Winners will be given merit certificates, and participants will be getting participation E-certificates.",
+                "The decision of the judges will be final and binding.",
+                "Some of the best sketches will be displayed at the Art gallery on 2nd February 2024.",
+                "Judging Criteria: <ul><li>Artistic Skill and Technique,</li><li> Creativity and Imagination,</li><li> Faithfulness to the Assigned Object,</li><li> Presentation and Artistic Choices</li></ul>"
+            ]
+        },
+        "Stitches & Sneek": {
+            "title": "Tshirt / Sneaker Designing Competition",
+            "teamSize": "2 members (1 for t-shirt & 1 for sneakers)",
+            "participants": "1 team per class",
+            "venue": "Between Main building & IT building",
+            "date": "1st February 2024",
+            "time": "3:00 PM - 5:00 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Riddhi Agrawal",
+                    "contact": "9850056239"
+                },
+                {
+                    "name": "Gauri Vaidya",
+                    "contact": "9826418093"
+                }
+            ],
+            "overview": "Step into the realm of fashion innovation with our T-shirt/Sneaker Designing Event! Unleash your creativity on fabric and footwear, crafting unique styles that speak volumes. Join us for a fusion of art and fashion – an opportunity to showcase your design flair and leave a lasting imprint on the runway of creativity!",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+                "Students must bring their own T-shirt & sneakers.",
+                "The shirt may be any style.",
+                "The T-shirt and sneakers must be solid white or any colour, without pre-existing designs.",
+                "Any pre-existing design on the T-shirt or sneaker may result in a deduction of points.",
+                "Students must bring their own paints, pens, colour pencils, brushes, water containers, and other material needed.",
+                "Bring newspapers and plastic sheets to protect the event venue from any damage.",
+                "Teams must complete the art within a time limit of 1 hour and 15 minutes. Subsequently, judges will spend the next 45 minutes evaluating each team's artwork.",
+                "Use of stencils/stamps is not allowed.",
+                "Participants have the freedom to select a theme for their sneakers and T-shirts.",
+                "Use of mobile phones or any printed reference is strictly prohibited during the competition.",
+                "Designs will be judged on factors like originality, creativity, neatness, difficulty of design, theme, etc.",
+                "Participants are responsible for cleaning their workspace after the event.",
+                "Ensure that no offensive or inappropriate language is used in the artwork while designing the T-shirt and sneakers.",
+                "Decisions taken by the judges/event coordinators will be considered final and binding.",
+                "Some of the best sketches will be displayed at the Art gallery on 2nd February 2024."
+            ]
+        },
+        "Relay Rangaarang": {
+            "title": "Relay Rangoli",
+            "teamSize": "3 members",
+            "participants": "1 team per class",
+            "venue": "Between Main Building & IT Building",
+            "date": "3rd February 2024",
+            "time": "3:00 PM to 6:00 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Tisha Bais",
+                    "contact": "9307799612"
+                },
+                {
+                    "name": "Vaishnavi Kadganve",
+                    "contact": "9029402468"
+                }
+            ],
+            "overview": "Embark on a colourful journey with our Rangoli Event! Celebrate the vibrancy of traditions and showcase your artistic finesse by adorning the canvas with vibrant hues. Join us for a festive fusion of creativity, where every grain of colour tells a story – participate and let your rangoli masterpiece illuminate our cultural tapestry!",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered as final; no alterations will be accommodated under any circumstances.</strong>",
+                "Teams must complete the rangolis within a time limit of 2 hours.",
+                "All the teams have the liberty to choose the design and theme of their rangolis.",
+                "Use of stencils, ready-made designs, mobile phones, any kind of reference or rough handmade sketches are not allowed.",
+                "Use of rangoli drawing instruments is allowed.",
+                "Contestants are expected to bring their own supplies for the competition.",
+                "Order of the contestants drawing the rangoli can be decided internally by the team members.",
+                "Participants are responsible for cleaning their workspace after the event.",
+                "Decisions of the judges and/or co-ordinators will be final and binding.",
+                "<b>Format</b><ul><li>Only one person from a team of three students is allowed to draw rangoli at a time.</li><li>The rangoli will commence with the first team member. A whistle will be blown randomly by coordinators signalling the next team member to start drawing the same rangoli.</li><li>Each team member will take turns to draw during the rotation, with a whistle indicating when to switch to the next participant.</li><li>TWIST- While one team member is drawing, the other team members must refrain from viewing the ongoing rangoli until the whistle blows for the next participant.</li><li>In the concluding phase of the competition, the entire team collaborates to incorporate the finishing touches.</li></ul>"
+            ]
+        },
+        "Palette Battle": {
+            "title": "Painting Competition",
+            "teamSize": "1 - 2 members",
+            "participants": "1 team per class",
+            "venue": "Between Main building & IT building",
+            "date": "1st February 2024",
+            "time": "9:30 AM to 12:00 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Siddhi Dahiwale",
+                    "contact": "9764564337"
+                },
+                {
+                    "name": "Janhavi Dawkore",
+                    "contact": "8855089968"
+                }
+            ],
+            "overview": "Immerse yourself in the world of strokes and hues with our Painting Event! Unleash your creativity on the canvas, as every brushstroke tells a unique story. Join us for an artistic journey where your masterpiece can inspire and captivate – participate and let your imagination paint the vibrant palette of our cultural celebration!",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered as final; no alterations will be accommodated under any circumstances.</strong>",
+                "The artist must submit their sketches within a maximum time limit of 150 minutes.",
+                "Contestants have the liberty to choose the theme & art of their choice.",
+                "A3 size sheets will be provided by the college.",
+                "No pencil work is allowed.",
+                "Participants have to get their own stationary whatever is needed like paint brushes, colours, water containers, rough cloth and palette.",
+                "No stencils/stamps are allowed.",
+                "Internet access/mobile phones/plagiarism is strictly prohibited.",
+                "Inappropriate content should be strictly avoided.",
+                "Rules can be changed as per coordinator’s direction (if required).",
+                "Decorum should be maintained while competition and students should respect the final result based on the judging criteria.",
+                "Some of the best sketches will be displayed at the Art gallery on 2nd February, 2024.",
+                "Participants are responsible for cleaning their workspace after the event. <br>(Bring newspapers to avoid any damage to the event space)"
+            ]
+        }
 
         
         
