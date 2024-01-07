@@ -1,8 +1,156 @@
 {
+    "category_title": "Body Canvas",
     "tabs": [
-
+        "Masked Masterpieces",
+        "Tattoo Craft Rivalry",
+        "Makeup Maestro",
+        "Heena Hustle"
     ],
     "details": {
+        "Masked Masterpieces": {
+            "title": "Face Painting",
+            "teamSize": "1 (Self painting) / 2 (1 artist & 1 model)",
+            "participants": "1 team per class",
+            "venue": "Mechanical Circle",
+            "date": "31st January 2024",
+            "time": "12:30 PM to 2:30 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Darshana Sawale",
+                    "contact": "8600419150"
+                },
+                {
+                    "name": "Sweta Vimal",
+                    "contact": "7066222041"
+                }
+            ],
+            "overview": "Masked Masterpieces is an artistic and collaborative event where participants bring their creativity to life through face painting.  It involves a team of one/ two(a painter and a model), to showcase unique designs and themes.",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+                "Participants have the liberty to decide the theme & design for the event.",
+                "Teams must consist of one/two members: one painter and one model.",
+                "All participants must bring their own model from their respective divisions.",
+                "The painter must complete the face painting within a maximum time limit of 90 minutes.",
+                "Judging will be based on creativity, precision, originality, and adherence to the chosen theme.",
+                "Hair styling will not be taken into consideration for judging.",
+                "Participants must bring their own material required for the competition. <br>(colours, brushes, glitter, napkins, newspapers to avoid any damage to the garden etc)",
+                "Participants are required to bring non-toxic, skin-safe face paint and brushes.",
+                "Judging will be based on creativity, precision, originality, and adherence to the chosen theme.",
+                "Any kind of stencils/stamps are not allowed.",
+                "Use of mobile phones/reference images are strictly prohibited during the contest.",
+                "Decisions taken by the judges/coordinators will be final."
+            ]
+        },
+        "Tattoo Craft Rivalry": {
+            "title": "Tattoo Making Competition",
+            "teamSize": "1 member (Self) / 2 members (Artist + model)",
+            "participants": "1 team per class",
+            "venue": "Mechanical Circle",
+            "date": "1st February 2024",
+            "time": "3:00 PM to 5:00 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Sai Ingole",
+                    "contact": "9022081587"
+                },
+                {
+                    "name": "Priti Patil",
+                    "contact": "7447615547"
+                }
+            ],
+            "overview": "Dive into the inked realm of creativity! In our tattoo art competition, teams, featuring a painter and model, craft captivating designs on hands or legs within a thrilling 1.25-hour challenge. Judges unravel the tales of originality, creativity, and artistic finesse. Unleash your artistry, leave no trace but a masterpiece!",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+                "Participants have the liberty to decide their theme & design for the tattoos.",
+                "Teams must consist of one/two members: one painter and one model.",
+                "All participants must bring their own model from their respective divisions.",
+                "Tattoos can be painted on 1 hand (entire) / both hands (entire) / 1 leg (below the knee) / both legs (below the knee). No extra points for covering both hands and legs.",
+                "Tattoos are not allowed on any other body parts. <br>(No tattoos on the face- Check out face painting competition for the same)",
+                "Teams must complete the art within a time limit of 1 hour and 15 minutes.",
+                "Judging will be based on originality, creativity, difficulty of design, theme, etc. <br>Subsequently, judges will spend the next 45 minutes evaluating each team's artwork.",
+                "Hairstyling will not be taken into consideration for judging.",
+                "Participants must bring their own paints, pens,  brushes, water holders, rough cloth, and newspaper to avoid any damage to the garden space, etc.",
+                "Participants are required to bring non-toxic, skin-safe face paint and brushes",
+                "Use of stencils/stamps is not allowed.",
+                "Use of mobile phones or any printed reference is strictly prohibited during the competition.",
+                "Designs will be judged on factors like originality, creativity, difficulty of design, theme etc.",
+                "Decisions of the judges would be final and binding. It should be accepted gracefully.",
+                "Participants are responsible for cleaning their workspace after the event."
+            ]
+        },
+        "Makeup Maestro": {
+            "title": "Makeup Competition",
+            "teamSize": "2",
+            "participants": "1 team from each class",
+            "venue": "Mechanical Circle",
+            "date": "3rd February 2024",
+            "time": "1:00 PM to 3:00 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Saloni Raut",
+                    "contact": "9307660846"
+                },
+                {
+                    "name": "Ankita Gamne",
+                    "contact": "7066187812"
+                }
+            ],
+            "overview": "Dive into the world of beauty and creativity with our Makeup Event! Express your artistic flair through stunning transformations and innovative looks.  Join us for a glamorous showcase where your makeup skills can shine – participate and let your talent redefine the art of beauty! ",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+                "Emphasize unique and creative makeup looks to showcase individuality.",
+                "Participants have the liberty to decide their theme for their makeup. No specified theme.",
+                "Teams must consist of one/two members: one makeup artist and one model.",
+                "All participants must bring their own model from their respective divisions.",
+                "Teams must complete the art within a time limit of 1.5 hours. Subsequently, judges will spend the next 30 minutes evaluating each team's artwork.",
+                "Hairstyling will not be taken into consideration for judging.",
+                "Participants must bring their own makeup kit.",
+                "Use of mobile phones or any printed reference is strictly prohibited during the competition.",
+                "Decisions of the judges would be final and binding. It should be accepted gracefully.",
+                "Participants are responsible for cleaning their workspace after the event.",
+                "Use of natural products of makeup that are not harmful for the skin.",
+                "Judges may assess technical skills, including blending, precision, and overall application."
+            ]
+        },
+        "Heena Hustle": {
+            "title": "Mehendi Competition",
+            "teamSize": "1 (Self-artist)/ 2 (1 artist + 1 model)",
+            "participants": "1 team per class",
+            "venue": "Mechanical Circle",
+            "date": "31st January 2024",
+            "time": "3:30 PM to 5:30 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Vaishnavi Kadganve",
+                    "contact": "9029402468"
+                },
+                {
+                    "name": "Janhavi Mishra",
+                    "contact": "9569403452"
+                }
+            ],
+            "overview": "Immerse yourself in the ancient art of henna with our Henna Event! Transform hands into canvases, creating intricate designs that tell stories of tradition and beauty. Join us for a celebration of cultural elegance – participate, and let your henna artistry leave an indelible mark on our vibrant festivities! 🌿🎉",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+                "All participants must bring their own model from their respective divisions.",
+                "Participants are expected to bring their own mehendi cones with which they are comfortable.",
+                "Use of colored cones is allowed.",
+                "The mehendi design should cover at least up to the mid-forearm of the participant. Mehendi can be drawn back & forth on the hands.",
+                "Judges will assess and consider the coverage aspect during the evaluation.  Extra points will be allotted for the same. ",
+                "Use of rough sketches, readymade designs, or any other pictures is <b>NOT</b> allowed.",
+                "90 minutes will be given to draw, next half an hour judges will evaluate designs based on creativity and overall presentation.",
+                "The decision of the judges would be final and binding. It should be accepted gracefully.",
+                "Any kind of stencils/stamps are not allowed.",
+                "Use of mobile phones is strictly prohibited during the contest.",
+                "Mehendi drawn on feet will not be taken into consideration for judging.",
+                "Participants are responsible for cleaning their workspace after the event.",
+                "Bring a rough cloth and newspapers to avoid any damage to the venue of the event."
+            ]
+        }
         
     }
 }
