@@ -1,8 +1,114 @@
 {
+    "category_title": "Digital Duels",
     "tabs": [
-
+        "MiniMovie Mania",
+        "Spontaneity Safari: The Candid Capture Challenge",
+        "Cosplay Clash"
     ],
     "details": {
-        
+        "MiniMovie Mania": {
+            "title": "MiniMovie Mania",
+            "teamSize": "4",
+            "participants": "1 team from each class",
+            "venue": "Online",
+            "date": "All days of Gandhaar",
+            "time": "All days of Gandhaar",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Vedika Potey",
+                    "contact": "7083482066"
+                },
+                {
+                    "name": "Ananti Mulay",
+                    "contact": "9689470857"
+                }
+            ],
+            "overview": "Dive into creativity with short films in this competition, exploring the art of storytelling within concise cinematic expressions.",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+                "The Short Film can be based on any subject or concept which will be declared online.",
+                "The entries can be documentaries, short films, animations, or experimental art forms.",
+                "The short film can be in English, Hindi, or Marathi languages.",
+                "The total runtime of the Short Film, including opening & closing credits, should strictly be a minimum of 3 minutes and a maximum of 10 minutes.",
+                "All content used in the short film must be owned.",
+                "The short film must be original and no watermark of any kind should be on the film.",
+                "The film must be of the highest quality possible.",
+                "Adult content of any kind will not be entertained and would lead to direct disqualification.",
+                "Judging process will also be online.",
+                "Judging criteria: <ul><li>Cinematography/direction, </li><li>Creativity, </li><li>Camera angles, </li><li>Storytelling factor, </li><li>Video quality, </li><li>Transition smoothness, </li><li>Editing skills</li></ul>"
+            ]
+        },
+
+        "Spontaneity Safari: The Candid Capture Challenge": {
+            "title": "Spontaneity Safari: The Candid Capture Challenge",
+            "teamSize": "1",
+            "participants": "1 - 3 from each class",
+            "venue": "Online",
+            "date": "From the Day of registration till 2nd day of Gandhaar",
+            "time": "From the Day of registration till 2nd day of Gandhaar",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Riddhi Agrawal",
+                    "contact": "9850056239"
+                },
+                {
+                    "name": "Aslesha Rathod",
+                    "contact": "8857065433"
+                }
+            ],
+            "overview": "The 'Spontaneity Safari: Candid Capture Challenge' invites solo participants to embark on a photographic journey capturing candid moments from the fest's vibrant atmosphere.",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+                "Capture the Moment: Your goal is to capture candid moments during the fest and the preparation of the fest.",
+                "Event Duration: The spontaneity safari begins from the day you register and extends until the 2nd day of Gandhaar. <br> (preparation and matches of Pentacle, Pregandhaar, Gandhaar practice, preparation and main Gandhaar till day 2 of Gandhaar) ",
+                "Some of the best photos will be displayed in the Art Gallery.",
+                "Eligibility: Open to all photography enthusiasts, amateur or professional.",
+                "No Interruptions: You must not interfere with the scene or subjects while capturing the moment.",
+                "Participant’s best clicks will be displayed on the post/stories, also credit will be given to the particular participant.",
+                "Authenticity Matters: No editing or manipulation allowed.",
+                "Respect Privacy: Always be mindful of people's privacy and boundaries.",
+                "Equipment: Use any camera or smartphone. The focus is on the moment captured, not the gear used.",
+                "Submission Guidelines: Participants must submit their 3 best candid captures through the (Google form or the coordinators will inform you about this later). Ensure that the image resonates with the theme of spontaneity and remains unaltered for authenticity.",
+                "Judging Criteria: Creativity, originality, emotional impact, and adherence to the rules will be the key factors for judging. Judging will be done through online mode only.",
+                "Originality: Only original photographs captured during the challenge period are accepted.",
+                "Winners will be announced during prize distribution on 3rd Feb."
+            ]
+        },
+
+        "Cosplay Clash": {
+            "title": "Cosplay Clash",
+            "teamSize": "2 (1 Model + 1 Photographer)",
+            "participants": "1 Team from Each Class",
+            "venue": "Online",
+            "date": "All days of Gandhaar",
+            "time": "All days of Gandhaar",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Gayatri Muttepawar",
+                    "contact": "7030625829"
+                },
+                {
+                    "name": "Vaidehi Gauda",
+                    "contact": "7420915519"
+                }
+            ],
+            "overview": "Cosplay Competition is a popular event where participants are expected to dress up in costumes and accessories to represent their favorite fictional character from movie, video games, comic books, anime etc. Cosplayers usually go above and beyond to embody the character’s personality, gestures, and mannerism.",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+                "Any signs or symbols that can be characterized as hate symbols or signs of discrimination should not be displayed. This includes any symbol that is a symbol of oppression, hatred, or violence towards a specific group of people.",
+                "Cosplay or costumes that intentionally impersonate those of local law enforcement, safety personnel, are strictly prohibited.",
+                "80% of the cosplay must be constructed or altered by the entrant.",
+                "Costumes entered must be presented with reference images and recreate characters from anime, manga, animation, etc.",
+                "All costumes should provide enough coverage to be worn in public and should be in good taste and appropriate. Gore, graphic violence, or other objectionable elements may be grounds for disqualification.",
+                "No political or religious statements are allowed. Anyone who violates this may be disqualified from the competition.",
+                "Prop weapons will be allowed providing they are composed of cardboard, foam, or other light materials.",
+                "Judging Criterion: <ul><li>CRAFTSMANSHIP <br>How the entrant made their costume, use of materials and creativity</li><li>LIKENESS/DETAIL<br>How close the contestant resembles the character they are cosplaying /detail on costume </li><li>PRESENTATION<br>How the entrant portrays themselves as the character they are cosplaying</li></ul>",
+                "The time limit per participant is approximately 15-30 seconds.",
+                "Participants with special effects (proper cosplay photography) will be awarded extra points."
+            ]
+        }
     }
 }
