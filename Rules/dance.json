@@ -1,18 +1,20 @@
 {
+    "category_title": "Groove Galas",
     "tabs": [
-        "Street Dance",
-        "Solo Dance",
-        "Classical Dance",
-        "Group Dance"
+        "Street Groove Battle",
+        "SOULl'O: Threads of Rhythm",
+        "Nritya Sangam",
+        "Dil se Dance"
     ],
     "details": {
-        "Street Dance": {
-            "title": "Street Battle Galore",
+        "Street Groove Battle": {
+            "title": "Street Dance Competiton",
             "teamSize": "1",
             "participants": "1 participant per class",
             "venue": "Stage 2",
             "date": "2nd February 2024",
             "time": "10:00 AM to 12:00 PM",
+            "registration_link":"https://forms.gle/xDC7KYWbeVncezPj6",
             "coordinators": [
                 {
                     "name": "Ashlesha Jagtap",
@@ -25,25 +27,18 @@
             ],
             "overview": "This event brings together 36 participants in a battle of rhythm, style, and expression, culminating in an intense face-off for the ultimate dance glory.",
             "rules": [
-                "Registrations for all events will be taken through the Gandhaar App only.",
-                "Registration forms submitted through the app will be considered final. No changes will be made under any circumstances.",
-                "Opponents for each round will be decided on the spot during the event.",
-                "The organizers will randomly select and play music to which participants will perform in all rounds.",
-                "Each face-off will be of 2 minutes. Adherence to the time limit is crucial.",
-                "Judging will be based on **Technique and Skill, Synchronization, Creativity and Originality, Stage Presence and Showmanship**.",
-                "Any form of disrespectful behavior, including inappropriate gestures or actions, will result in disqualification.",
-                "Classical and Folk dances are not a part of this competition. (Please refer to the rules of the classical dance competition).",
-                "The participants are expected to observe a level of decency and refrain from making racial, religious or offensive remarks.",
-                "Simple props which can be carried in and out of the stage right before the performance are permitted.",
-                "The decisions of the judges and organizers will be final and binding.",
-                "<b>Format :</b>",
-                "Initially, there will be 36 participants.",
-                "In the first round, chits are used to randomly pair up all 36 participants in groups of two. Each pair competes, and the winner from each advances.",
-                "Using the same chit method, the 18 winners are paired in the second round, resulting in 9 participants moving forward.",
-                "Using the same chit method, the 9 winners are paired in the third round in groups of three.",
-                "Finally, the last 3 winners, determined by chits, face off in the ultimate round to decide the competition winner.",
-                "NOTE - The structure of rounds and faceoffs is subject to change if the number of participating students is less than 36."
-            ]
+                  "Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.",
+                  "Opponents for each round will be decided on the spot during the event.",
+                  "The organizers will randomly select and play music to which participants will perform in all rounds.",
+                  "Each face-off will be of 2 minutes. Adherence to the time limit is crucial.",
+                  "Judging will be based on technique and skill, synchronization, creativity and originality, stage presence, and showmanship.",
+                  "Any form of disrespectful behavior, including inappropriate gestures or actions, will result in disqualification. Playful jesting and mild teasing are permitted.",
+                  "Classical and Folk dances are not a part of this competition. (Please refer to the rules of the classical dance competition).",
+                  "Participants are expected to observe a level of decency and refrain from making racial, religious, or offensive remarks.",
+                  "Simple props which can be carried in and out of the stage right before the performance are permitted.",
+                  "The decisions of the judges and organizers will be final and binding.",
+                  "<b>Format</b><ul><li>Initially, there will be 36 participants.</li> <li>In the first round, chits are used to randomly pair up all 36 participants in groups of two. Each pair competes, and the winner from each advances.</li><li>Using the same chit method, the 18 winners are paired in the second round, resulting in 9 participants moving forward.</li> <li>Using the same chit method, the 9 winners are paired in the third round in groups of three. </li><li>Finally, the last 3 winners face off in the ultimate round to decide the competition winner.</li><li><b>NOTE:</b>The structure of rounds and faceoffs is subject to change if the number of participating students is less than 36.</li> </ul>"
+]
         },
 
         "Solo Dance": {
