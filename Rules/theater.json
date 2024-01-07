@@ -1,8 +1,42 @@
 {
+    "category_title": "Theatrical Gatherings",
     "tabs": [
-
+        "Drama Palooza"
     ],
     "details": {
-        
+        "details": {
+        "Drama Palooza": {
+            "title": "Class Drama",
+            "teamSize": "5 - 10 members + 3 volunteers (if needed)",
+            "participants": "20 teams (First come first serve basis)",
+            "venue": "Main Building Quadrangle",
+            "date": "3rd February 2024",
+            "time": "12:00 PM to 4:00 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Ananti Mulay",
+                    "contact": "9689470857"
+                },
+                {
+                    "name": "Aslesha Rathod",
+                    "contact": "8857065433"
+                }
+            ],
+            "overview": "Embark on an 8-minute storytelling extravaganza in Hindi/English/Marathi—where props are your magical companions. Paint a vivid tale on the canvas of creativity. Let your performance echo, as decisions by coordinators and judges become the grand finale of your narrative journey!",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+                "Language: Hindi/English/Marathi",
+                "Competition will be held in a single round.",
+                "Total performance time is <b>8 minutes + 2 minutes for setup.</b>",
+                "Decisions taken by event coordinators and judges will be final.",
+                "Please use simple props, which can be carried around easily. The props required by the team are subject to verification by event coordinators.",
+                "Total teams performing on the day of the event is 20.",
+                "If more than 20 teams register, an elimination round will be held, details about which will be conveyed later.",
+                "If any sound setup is required, the track needs to be provided to the event coordinators on time as and when instructed by the coordinators. No changes can be made to the soundtrack once it's submitted.",
+                "Any kind of material which has a possibility of damaging the area, or harming the people involved is strictly not allowed.",
+                "Usage of abusive language, obscenity, direct implications, plagiarism, racial, religious/linguistic, sexual, and political views will lead to immediate disqualification."
+            ]
+        }
     }
 }
