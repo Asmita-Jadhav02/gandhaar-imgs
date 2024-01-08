@@ -1,8 +1,81 @@
 {
     "tabs": [
-
+        "Pottery Playtime",
+        "Mandala Art Magic",
+        "Resin Art Rendevous"
     ],
     "details": {
+         "Pottery Playtime": {
+             "title": "Pottery Workshop",
+             "teamSize": "1",
+             "participants": "Registered students",
+             "venue": "Between Main building & IT building",
+             "date": "2nd February 2024",
+             "time": "12:00 PM to 4:30 PM",
+             "registration_link": "",
+             "coordinators": [
+                {
+                    "name": "Vaidehi Murdandgauda",
+                    "contact": "7420915519"
+                },
+                {
+                    "name": "Anushka Paranjape",
+                    "contact": "9850099510"
+                }
+            ],
+             "overview": "Get ready to get your hands dirty in the Pottery Playground! This workshop is for anyone who's ever wanted to try their hand at molding clay into something special",
+             "rules" : [
+                 "All updates related to workshops would be conveyed through mail."
+             ]
+         } ,
+        "Mandala Art Magic": {
+             "title": "Mandala Workshop",
+             "teamSize": "1",
+             "participants": "Registered students",
+             "venue": "Instrumentation Auditorium",
+             "date": "3rd February 2024",
+             "time": "2:00 PM to 3:30 PM",
+             "registration_link": "",
+             "coordinators": [
+                {
+                    "name": "Tejaswini Patkar",
+                    "contact": "9730044087"
+                },
+                {
+                    "name": "Janhavi Dawkore",
+                    "contact": "8855089968"
+                }
+            ],
+             "overview": "Unleash your creativity and find your Zen in the Mandala Magic workshop. Whether you're a seasoned artist or just looking to unwind, dive into the world of intricate patterns and soothing colors. No rules, just good vibes as we create beautiful, unique mandalas together.",
+             "rules" : [
+                 "All updates related to workshops would be conveyed through mail."
+             ]
+         } ,
+         "Resin Art Rendevous": {
+             "title": "Resin Art Workshop",
+             "teamSize": "1",
+             "participants": "Registered students",
+             "venue": "KB Joshi Hall",
+             "date": "3rd February 2024",
+             "time": "10:00 AM to 1:00 PM",
+             "registration_link": "",
+             "coordinators": [
+                {
+                    "name": "Sweta Vimal",
+                    "contact": "7066222041"
+                },
+                {
+                    "name": "Chaitrali Kharat",
+                    "contact": "7030947919"
+                }
+            ],
+             "overview": "Discover the joy of creating vibrant, glossy masterpieces. No previous experience needed! Mix and Pour your way to stunning creations that capture your unique style. Get ready to make some Insta-worthy creations!",
+             "rules" : [
+                 "All updates related to workshops would be conveyed through mail."
+             ]
+         } 
         
+        
+            
     }
 }
