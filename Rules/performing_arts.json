@@ -1,8 +1,211 @@
 {
+    "category_title": "Echoes of Expression",
     "tabs": [
-
+        "SoloScript Showdown",
+        "Narrative Rumble",
+        "CUMMINS GOT TALENT",
+        "Ad Mad",
+        "वाद-विवाद Vista"
     ],
     "details": {
-        
+        "SoloScript Showdown": {
+            "title": "Monologue Competition",
+            "teamSize": "1 member",
+            "participants": "First Come first serve basis (24 performances)",
+            "venue": "Stage 2 (Stage near Canteen)",
+            "date": "1st February 2024",
+            "time": "3:00 PM to 5:00 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Vedika Potey",
+                    "contact": "7083482066"
+                },
+                {
+                    "name": "Vaidehi Murdandgauda",
+                    "contact": "7420915519"
+                }
+            ],
+            "overview": "Command the stage with the power of your words in our Monologue Event! Unleash your storytelling prowess, convey emotions, and captivate the audience with a solo performance. Join us for a compelling exploration of individual expression – participate, and let your monologue resonate as a powerful voice in our cultural narrative! 🎤🌟",
+            "rules": [
+                "<strong>Upon completion of registration, kindly note that it will be considered as final, no alterations will be accommodated under any circumstances.</strong>",
+                "Participants will have 4 minutes performance time.",
+                "Language of the monologue must be English/Hindi/Marathi.",
+                "Repetition of the same monologue is not allowed.",
+                "Use of mobile phones is strictly prohibited during the competition.",
+                "Participants can use props or any available resources to support their performance.",
+                "Participants will be stopped at the 4-minute mark, and points will be deducted for exceeding the time limit.",
+                "Contestants are allowed to read from their monologues but bonus marks will be given to those that memorized it.",
+                "Contestants will be judged based on their Voice and Articulation, Appropriateness of Dramatization, Level of Difficulty, and Overall Performance.",
+                "Participants are free to perform any monologue of their choice, whether from a published work or an original creation.",
+                "Participants are encouraged to perform original monologues. Extra points will be awarded for the same.",
+                "Proper credit must be given to the source of the original monologue before the performance begins.",
+                "Materials presented must not touch on sensitive issues, such as race, religion, stereotyping, politics, etc.",
+                "One copy of the monologue must be submitted to the coordinators one week prior to the competition.",
+                "Any violation of rules or unsportsmanlike conduct may result in disqualification.",
+                "Any performance should not contain any offensive comments on any staff members or any specific student. Performance will be stopped in case of any insensitive comments passed.",
+                "The organizing committee reserves the right to make decisions in unforeseen circumstances or disputes."
+            ]
+        },
+
+        "Narrative Rumble": {
+            "title": "Story & Stand up Competition",
+            "teamSize": "1 member",
+            "participants": "20 entries (First serve first come basis)",
+            "venue": "Stage 2",
+            "date": "1st February 2024",
+            "time": "10:00 AM to 12:00 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Janhavi Bhopale",
+                    "contact": "9156049847"
+                },
+                {
+                    "name": "Revati Shrikhande",
+                    "contact": "9405118170"
+                }
+            ],
+            "overview": "Unleash linguistic flair in a 6-minute spotlight—Hindi, English, or Marathi, your choice! Topics bloom like stories, but tread lightly. Let your words dance with ease, engage the audience, and echo with a rhythm that captivates. Your stage, your language, your tale—let the creativity unfold!",
+            "rules": [
+                "<strong>Upon completion of registration, kindly note that it will be considered as final, no alterations will be accommodated under any circumstances.</strong>",
+                "Languages allowed for the competition: Hindi, English or Marathi",
+                "Time limit : 5 mins (maximum)",
+                "Contestants have the liberty to select any topic of their choice.",
+                "The act should not contain any offensive comments. Act will be stopped in case of any insensitive/ inappropriate comments passed.",
+                "Judgment criteria: Ease of speaking, engaging audience, time bound, context, body language and voice modulation.",
+                "Contestants are expected to perform without using a reference. (No mobile phones)",
+                "Maximum 20 entries will be accepted on first come first serve basis",
+                "Decision of judges and event coordinators will be final."
+            ]
+        },
+
+        "CUMMINS GOT TALENT": {
+            "title": "Talent Show",
+            "teamSize": "1 - 16 participants (solo/duet entries allowed)",
+            "participants": "All students from all branches",
+            "venue": "Main Building Quadrangle",
+            "date": "1st February 2024",
+            "time": "2:00 pm to 5:00 pm",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Rudrika Sharma",
+                    "contact": "7057950272"
+                },
+                {
+                    "name": "Anushka Yeole",
+                    "contact": "8669416694"
+                }
+            ],
+            "overview": "Dive into a showcase of diverse talents at our inclusive event open to all students and faculty of Cummins College of Engineering! From dynamic group dances to soulful solos, each performer gets 5 minutes to shine. Join us for a lively evening of creativity, camaraderie, and unbridled talent.",
+            "rules": [
+                "<strong>Upon completion of registration, kindly note that it will be considered as final, no alterations will be accommodated under any circumstances.</strong>",
+                "Time limit: 7 minutes maximum (5 minutes for performance + 2 minutes for stage clearance and anchoring)",
+                "The event is open for all CURRENT students and faculty of Cummins College of Engineering.",
+                "Each performer will be allowed a maximum of 5 minutes to perform their act.",
+                "Performances including duet/group inter-class dance, short solo skit, solo/duet singing, stand up act, rapping, shayari, monologue, musical instrument, poem recitation, and any other performing arts are welcome.",
+                "The event aims to showcase a diverse range of talents, providing equal opportunities for both students and faculty members.",
+                "Due to time constraints, an elimination round will precede the main program, scheduled 1/2 weeks before the event.",
+                "Participants are required to present their entire performance during the elimination round.",
+                "A panel of judges will evaluate performances, striving to include diverse talents across various domains.",
+                "Participants failing to advance in the elimination round are encouraged to gracefully accept the outcome. Decisions of the judges & coordinators would be final and binding.",
+                "The participants are expected to observe a level of decency and refrain from making racial, religious or offensive remarks. The act should not contain any offensive comments on any staff members or students. Performances must be appropriate for a family-friendly audience. Act will be stopped in case of any insensitive comments passed.",
+                "Revealing costumes won't be allowed. Participants need to get their costumes verified with the coordinators as and when asked to do so.",
+                "Only use of simple props which can be carried in and out of the stage right before the performance is permitted. Performers must bring their own equipment and props required for their act.",
+                "The soundtrack of the performance has to be submitted to the event coordinator whenever asked prior to the event. One single file should be submitted as the music track. No changes can be made in the track once it has been submitted.",
+                "If you need mics or any other specific setup on the stage for your performance, it needs to be informed as and when instructed by the coordinators.",
+                "Participants are not allowed to practice on the main stage. The schedule for rehearsal on the stage will be shared by the coordinators.",
+                "The event organizers have the right to cut off any performance that exceeds the allotted time or violates any of the rules. The event organizers may add or modify rules as required.",
+                "THIS EVENT WILL NOT BE CONSIDERED FOR THE BEST CLASS AND DEPARTMENT AWARDS, it is arranged to showcase the different talents our students have!"
+            ]
+        },
+
+         "Ad Mad": {
+            "title": "Advertising Competition",
+            "teamSize": "4 -6 members ",
+            "participants": "1 team per class",
+            "venue": "Stage 2",
+            "date": "31st January 2024",
+            "time": "12:30 PM to 3:30 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Ananti Mulay",
+                    "contact": "9689470857"
+                },
+                {
+                    "name": "Gauri Vaidya",
+                    "contact": "9826418093"
+                }
+            ],
+            "overview": "Embark on a whimsical journey as teams draw random product names, concocting lively vocal ads in just 4 minutes—3 for dazzling performances and 1 for setup magic. No phones, but props are the secret sauce. Judges savor the blend of creativity, product allure, and audience enchantment in this dynamic competition!",
+            "rules": [
+                "<strong>Upon completion of registration, kindly note that it will be considered as final, no alterations will be accommodated under any circumstances.</strong>",
+                "Each team will have to pick up a chit containing a random product name 1 week before the performance.",
+                "Teams will have 4 minutes: 3 minute performance time + 1 minute for setup.",
+                "The advertisement should be vocal.",
+                "Use of mobile phones is strictly prohibited during the competition.",
+                "Teams can use props, or any available resources to support their vocal performance.",
+                "Every team member must participate in the performance. (Points will be deducted if any of the team member is not the part of performance)",
+                "Teams will be stopped at the 3-minute mark, and points will be deducted for exceeding the time limit.",
+                "Teams are encouraged to engage the audience during their performance. (Extra points will be awarded for crowd engagement)",
+                "Teams must adhere to the spirit of fair play and sportsmanship.",
+                "Any violation of rules or unsportsmanlike conduct may result in disqualification.",
+                "The Ad should not contain any offensive comments on any staff members or any specific student. Performance will be stopped in case of any insensitive comments passed.",
+                "The organizing committee reserves the right to make decisions in unforeseen circumstances or disputes.",
+                "Judging Criteria:",
+                "Creativity and Originality",
+                "Adherence to Product",
+                "Effective Use of props",
+                "Vocal skills",
+                "Teamwork and Collaboration",
+                "Engagement of audience during advertising"
+            ]
+        },
+        "वाद-विवाद Vista": {
+            "title": "Debate Competition",
+            "teamSize": "3",
+            "participants": "1 team from each class",
+            "venue": "Stage 2",
+            "date": "31st January 2024",
+            "time": "3:30 PM to 5:30 PM",
+            "registration_link": "",
+            "coordinators": [
+                {
+                    "name": "Rucha Joshi",
+                    "contact": "9604282378"
+                },
+                {
+                    "name": "Kanak Daulatani",
+                    "contact": "9075893748"
+                }
+            ],
+            "overview": "Debate your way to Gandhaar! 2 elimination rounds, 8 top teams, and a thrilling final. Show your creativity in a 1-minute intro. Stay tuned for updates and prepare for 15 minutes of intense debates. Let the battle of ideas begin",
+            "rules": [
+                "<strong>Upon completion of registration, kindly note that it will be considered as final, no alterations will be accommodated under any circumstances.</strong>",
+                "Up to 2 elimination rounds will be conducted, and a total of 8 teams will be shortlisted for the event. (2 teams per year)",
+                "The elimination rounds will be held prior to Gandhaar. The details of the elimination rounds will directly be communicated to the teams.",
+                "The top 2 teams from these teams will be given a separate topic for the final debate.",
+                "Each of the top 8 teams is required to give an introduction performance to showcase their creativity and team spirit. The performance should be a maximum of 1 minute long, and teams are free to choose any theme or mode of performance they desire, such as dance, song, acting, or something else entirely.",
+                "However, teams must submit their chosen track to the event coordinators for approval before finalizing their performance, to ensure that all performances are appropriate for the event and comply with the event's guidelines.",
+                "In the first round, the 8 shortlisted teams will participate in 4 debates. The top 2 teams with the highest score from this round will move on to the finals.",
+                "In the final round, each debate will have a maximum duration of 15 minutes.",
+                "We encourage all teams to stay tuned and check their communication channels regularly for updates and further information.",
+                "Debaters will speak in the following order:",
+                "Speaker 1 of proposition (3 min)",
+                "Speaker 1 of opposition (3min)",
+                "Speaker 2 of proposition (2 min)",
+                "Speaker 2 of opposition (2 min)",
+                "Speaker 3 of proposition (2 min)",
+                "Speaker 3 of opposition (2 min)",
+                "Opposition Reply Speech, to be given by either the 1st or 2nd Opposition speaker (not more than 1 min)",
+                "Government Reply Speech, to be given by either the 1st or 2nd Proposition speaker (not more than 1 min)",
+                "RS: Reply to speech by 1st/2nd speaker from either of the team",
+                "Each Team Can speak up to maximum 15 mins (3min+2min+2min+1min)."
+            ]
+        }
     }
 }
+
+               
