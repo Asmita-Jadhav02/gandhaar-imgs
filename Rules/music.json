@@ -7,12 +7,12 @@
     "details": {
         "Melodic Unity": {
             "title": "Group Singing Competition",
-            "teamSize": "3 - 5 members",
+            "teamSize": "2 - 5 members",
             "participants": "1 team per class",
             "venue": "Main Building Quadrangle",
             "date": "2nd February 2024",
             "time": "11:00 AM to 2:00 PM",
-            "registration_link": "",
+            "registration_link": "https://forms.gle/1mW8P9E43zQDnozRA",
             "coordinators": [
                 {
                     "name": "Vanshika Raina",
@@ -26,12 +26,8 @@
             "overview": "Dive into a dynamic musical event where participants choose songs in English, Hindi, or Marathi. With a five-minute limit, showcase innovation, teamwork, and stage presence in this vibrant musical experience.",
             "rules": [
                 "<strong>Upon completion of registration, kindly note that it will be considered as final, no alterations will be accommodated under any circumstances.</strong>",
-                "The selection of songs is up to the participant.",
-                "Innovative compositions are most welcomed.",
-                "Songs should be in English, Hindi, or Marathi.",
-                "Vocal beats in Raps are allowed, and mixing (Bollywood + Hollywood) of songs can be done.",
-                "Remix versions of old songs can be done.",
-                "Songs should be registered before the event to the event coordinators.",
+                "The selection of songs is up to the participant.<ul><li>Innovative compositions are most welcomed.</li><li>Songs should be in English, Hindi, or Marathi.</li><li>Vocal beats in Raps are allowed, and mixing (Bollywood + Hollywood) of songs can be done.</li><li>Remix versions of old songs can be done.</li></ul>",
+                "Songs should be registered before the event to the event coordinators as and when instructed. ",
                 "No repetition of the song is allowed. Song priority will be based on a first come & first serve basis.",
                 "Use of any personal instrument should be informed before the event.",
                 "Time Limit is 5 minutes- 3 minutes performance + 2 minutes for stage clearing.",
@@ -40,21 +36,17 @@
                 "The karaoke should be submitted as and when instructed by the coordinator.",
                 "Participants are expected to observe decency and refrain from profanity.",
                 "The decision taken by the coordinators & judges will be final and binding.",
-                "Judging Criteria:",
-                "- Creativity",
-                "- Team Dynamics and Showmanship",
-                "- Vocal, Pitching, Rhythm, and Diction",
-                "- Costume, Overall Impression, Impact & Stage Presence"
+                "Judging Criteria:<ul><li>Creativity</li><li>Team Dynamics and Showmanship</li><li>Vocal, Pitching, Rhythm, and Diction</li><li>Costume, Overall Impression, Impact & Stage Presence</li></ul>"
             ]
         },
         "Kaun banega surpati": {
             "title": "Department Antakshari",
-            "teamSize": "5 members",
-            "participants": "1 team from each department",
-            "venue": "Instrumentation Auditorium",
+            "teamSize": "2 - 5 members",
+            "participants": "1 team from each department (only Students)",
+            "venue": "Stage 2",
             "date": "1st February 2024",
             "time": "1:00 PM to 3:00 PM",
-            "registration_link": "",
+            "registration_link": "https://forms.gle/o6nyY2yAzhp3fJsf8",
             "coordinators": [
                 {
                     "name": "Sai Ingole",
@@ -68,8 +60,14 @@
             "overview": "Department Antakshari challenges teams to showcase their musical prowess through three exciting rounds. From song lyric decrypting to singing challenges, culminating in the ultimate Antakshari face-off. May the most melodious team emerge victorious",
             "rules": [
                "<strong>Upon completion of registration, kindly note that it will be considered as final, no alterations will be accommodated under any circumstances.</strong>",
-                "ROUND 1: RAPID FIRE (WARM UP ROUND): No Elimination<ul><li>- Each team will pick up a chit containing an alphabet.</li><li>A paper will be provided to each team. The team has to write a movie name from the alphabet that was chosen.</li><li>Write down a list of movies where each movie starts with the last letter of the previously named movie. Try to name as many movies as possible in 2 minutes.</li><li>Five points will be awarded for each movie name.</li></ul>",
-                "ROUND 2: Elimination Round (2 out of 6 Teams)<ul><li>Photos of singers would be displayed and participants have to sing a song (At least the first verse of the song) of that singer.</li><li>Correct song will be awarded 10 points.</li></ul>",
+                "There will not be any eliminations in any rounds. The winner will be declared based on overall scores of all 3 rounds.",
+                "Use of Phone/Internet is strictly prohibited.",
+                "Taking help from the audience will lead to deduction of points.", 
+                "The decision taken by the judges & coordinators during any event will be final and binding in all cases & should be accepted gracefully.",
+                "The organising committee reserves the right to make decisions in unforeseen circumstances or disputes in any competitions/events.",
+                "FORMAT :-",
+                "ROUND 1: RAPID FIRE (Song Lyric Decryptor): No Elimination<ul><li>Each team will pick up a chit containing lyrics of any Hindi song converted into English.</li><li>Team has to guess the correct Hindi song for the same. </li><liTime given to think of a song is 45 seconds.</li><li>Five points will be awarded for each correct song</li><li> Each team will get a chance to pick up 2 chits. </li></ul>",
+                "ROUND 2: Elimination Round (Song Search Showdown): No Elimination<ul><li> Each team will pick up a chit having a word.</li><li>Team has to sing a maximum number of songs (at least 1 verse) having that word.</li><li>Time given to think of songs is 90 seconds.</li><li>Each song will be awarded with 5 points</li><li>Each team will get a chance to pick up only 1 chit. </li></ul>",
                 "ROUND 3: Ultimate Antakshari (FINAL ROUND)<ul><li>No song can be repeated.</li><li>At least the first verse of the song must be sung.</li><li>The decision of the judges shall be final and binding to all the teams.</li><li>Time is given to think of a song is 20 seconds.</li><li>Three chances would be provided per team.</li><li>Each correct song will be awarded 10 points.</li><li>The team with the maximum score wins.</li></ul>"
             ]
         }
