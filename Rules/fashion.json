@@ -13,7 +13,7 @@
             "venue": "Main Building Quadrangle",
             "date": "3rd February 2024",
             "time": "4:00 PM to 6:00 PM",
-            "registration_link": "",
+            "registration_link": "https://forms.gle/hhTSXCgwZp5g9NcV7",
             "coordinators": [
                 {
                     "name": "Nikita Patil",
@@ -45,11 +45,11 @@
         "Miss Cummins": {
             "title": "Beauty Pageant",
             "teamSize": "1 member",
-            "participants": "100 registrations (First come first serve)",
+            "participants": "2 participants from each class",
             "venue": "Main Building Quadrangle",
             "date": "2nd February 2024",
             "time": "9:00 AM to 11:00 AM", 
-            "registration_link": "",
+            "registration_link": "https://forms.gle/afvdhHYuZ8B2wdMp9",
             "coordinators": [
                 {
                     "name": "Asmita Jadhav",
@@ -64,18 +64,19 @@
             "rules": [
                 "<strong>Upon completion of registration, kindly note that it will be considered as final, no alterations will be accommodated under any circumstances.</strong>",
                 "The deadline for applying for Miss Cummins is <b>15 January 2024.</b>",
-                "Elimination Round would be conducted on 17 January 2024 in person.",
-                "For the elimination round, each participant must bring and submit at least 3-4 pictures as a portfolio.",
+                "Elimination Round would be conducted on <b>17 January 2024</b> in person.",
+                "For the elimination round, each participant must bring and submit at least 3-4 pictures as a portfolio. (physical printouts)",
                 "Participants need to fill a questionnaire which would be distributed and collected in person during this elimination round (17th January 2024)",
+                "<b>20 Students</b> will be shortlisted after the elimination round by a jury of judges.",
                 "There will be a total of 3 rounds on the day of events.<ul><li><b>Round 1:</b> Walk and Introduction</li><li><b>Round 2:</b> Talent Round</li><li><b>Round 3:</b> Question and Answer Round.</li></ul>",
-                "Each of these rounds will have elimination.",
-                "The ramp walk must be between 30 sec - 1 min.",
-                "Introduction should not exceed 30 sec.",
-                "Each person has to limit their Talent Performance (Dance, Music, etc) to 3 mins.",
+                "Each of these rounds will have elimination.<br>(10 eliminations in Round 1, <br> 5 eliminations in round 2)",
+                "Soundtrack for the walk and final round has to be submitted as and when asked by the co-ordinators. If any changes are requested, you are obliged to follow.",
+                "You will be allowed and allocated 15 mins to change outfits if required, for your talent show.",
                 "You will be judged on 5 categories (costume, walk, talent, personality, and stage presence).",
                 "Awards for the Miss Cummins Pageant:<ul><li>i. Miss Cummins (Winner)</li><li>ii. Best personality,</li><li>iii. Best fashion sense.</li></ul>",
                 "Inappropriate costume/dress would lead to disqualification.",
-                "Judge’s decision will be final and binding and should be accepted gracefully."
+                "Judge’s decision will be final and binding and should be accepted gracefully.",
+                "Format:<br><ul><li><b>Round 1:</b> Walk and Introduction<ul><li>The ramp walk must be between 30 seconds.</li><li>Introduction should not exceed 30 seconds.</li><li>One personal question would be asked to the participants spontaneously during this introduction, for which the participants will get 30 seconds to answer. </li><li>Total time of 1 min 30 seconds would be allotted to each participant.<br><i>(30 seconds for Walk, 30 seconds for Introduction and 30 seconds for answering a personal question.)</i></li></ul></li><li><b>Round 2:</b> Talent Round<ul><li>Each person has to limit their Talent Performance (Dance, Music, etc) to 3 minutes. </li><li>Participants have to carry any props or equipment needed for their talent.</li><li>The Participants would get 15 mins before the Talent round to change outfits if required by them.</li></ul></li><li><b>Round 3:</b> Question and Answer Round.<ul><li>For the last round, each finalist will have to answer one question asked by the judge.</li></ul></li></ul>"
             ]
         },
         "Vogue Runway": {
@@ -85,7 +86,7 @@
             "venue": "Samstha Ground",
             "date": "31st January 2024",
             "time": "6:00 PM to 9:00 PM",
-            "registration_link": "",
+            "registration_link": "https://forms.gle/n6djGQGLRBrME9C56",
             "coordinators": [
                 {
                     "name": "Saniya Pawar",
