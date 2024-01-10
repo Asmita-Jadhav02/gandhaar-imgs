@@ -3,17 +3,18 @@
     "tabs": [
         "MiniMovie Mania",
         "Spontaneity Safari: The Candid Capture Challenge",
-        "Cosplay Clash"
+        "Costume Chronicles: Photographic Fantasia",
+        "Essence of Motion"
     ],
     "details": {
         "MiniMovie Mania": {
-            "title": "MiniMovie Mania",
-            "teamSize": "4",
+            "title": "Short Film Competition",
+            "teamSize": "No limit (Entire class can participate)",
             "participants": "1 team from each class",
             "venue": "Online",
-            "date": "All days of Gandhaar",
-            "time": "All days of Gandhaar",
-            "registration_link": "",
+            "date": "From the day after registering till 2nd day of Gandhaar (1st February 2024)",
+            "time": "",
+            "registration_link": "https://forms.gle/YnZnCbsbJyEvgZtT6",
             "coordinators": [
                 {
                     "name": "Vedika Potey",
@@ -27,7 +28,8 @@
             "overview": "Dive into creativity with short films in this competition, exploring the art of storytelling within concise cinematic expressions.",
             "rules": [
                 "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
-                "The Short Film can be based on any subject or concept which will be declared online.",
+                "<b>TEAM MUST BE FORMED BY THE STUDENTS OF THE SAME CLASS.</b>",
+                "The participants have the liberty to choose any subject or concept of their choice.",
                 "The entries can be documentaries, short films, animations, or experimental art forms.",
                 "The short film can be in English, Hindi, or Marathi languages.",
                 "The total runtime of the Short Film, including opening & closing credits, should strictly be a minimum of 3 minutes and a maximum of 10 minutes.",
@@ -36,6 +38,9 @@
                 "The film must be of the highest quality possible.",
                 "Adult content of any kind will not be entertained and would lead to direct disqualification.",
                 "Judging process will also be online.",
+                "The best films will be featured on the official gandhaar instagram account. ",
+                "Results will be declared during the prize distribution (3rd February 2024)",
+
                 "Judging criteria: <ul><li>Cinematography/direction, </li><li>Creativity, </li><li>Camera angles, </li><li>Storytelling factor, </li><li>Video quality, </li><li>Transition smoothness, </li><li>Editing skills</li></ul>"
             ]
         },
@@ -47,7 +52,7 @@
             "venue": "Online",
             "date": "From the Day of registration till 2nd day of Gandhaar",
             "time": "From the Day of registration till 2nd day of Gandhaar",
-            "registration_link": "",
+            "registration_link": "https://forms.gle/7AftETthyyDyQgZs9",
             "coordinators": [
                 {
                     "name": "Riddhi Agrawal",
@@ -58,12 +63,12 @@
                     "contact": "8857065433"
                 }
             ],
-            "overview": "The 'Spontaneity Safari: Candid Capture Challenge' invites solo participants to embark on a photographic journey capturing candid moments from the fest's vibrant atmosphere.",
+            "overview": "The 'Spontaneity Safari: Candid Capture Challenge' invites solo participants to embark on a photographic journey capturing candid moments from the fest's vibrant atmosphere. Armed with a camera, participants navigate diverse environments, seeking to immortalise authentic expressions, unexpected interactions, and fleeting scenes. The challenge lies in embracing the spontaneity of photography, where perfect timing and unposed authenticity combine to create unique snapshots. Participants submit their three best captures, showcasing creativity and emotional impact.",
             "rules": [
                 "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
-                "Capture the Moment: Your goal is to capture candid moments during the fest and the preparation of the fest.",
-                "Event Duration: The spontaneity safari begins from the day you register and extends until the 2nd day of Gandhaar. <br> (preparation and matches of Pentacle, Pregandhaar, Gandhaar practice, preparation and main Gandhaar till day 2 of Gandhaar) ",
-                "Some of the best photos will be displayed in the Art Gallery.",
+                "Capture the Moment: Your goal is to capture candid moments during the fest and the preparation of the fest.  <br>(preparation and matches of Pentacle, Pregandhaar, Gandhaar practice, preparation and main Gandhaar till day 2 of Gandhaar) ",
+                "Event Duration: The spontaneity safari begins from the day you register and extends until the 2nd day of Gandhaar. Participants have the flexibility to capture moments at any time within this timeframe.",
+                "Some of the best photos will be displayed in the Art Gallery 2nd February 2024.",
                 "Eligibility: Open to all photography enthusiasts, amateur or professional.",
                 "No Interruptions: You must not interfere with the scene or subjects while capturing the moment.",
                 "Participant’s best clicks will be displayed on the post/stories, also credit will be given to the particular participant.",
@@ -73,18 +78,18 @@
                 "Submission Guidelines: Participants must submit their 3 best candid captures through the (Google form or the coordinators will inform you about this later). Ensure that the image resonates with the theme of spontaneity and remains unaltered for authenticity.",
                 "Judging Criteria: Creativity, originality, emotional impact, and adherence to the rules will be the key factors for judging. Judging will be done through online mode only.",
                 "Originality: Only original photographs captured during the challenge period are accepted.",
-                "Winners will be announced during prize distribution on 3rd Feb."
+                "Winners will be announced during prize distribution on 3rd February 2024."
             ]
         },
 
-        "Cosplay Clash": {
-            "title": "Cosplay Clash",
+        "Costume Chronicles: Photographic Fantasia": {
+            "title": "Cosplay Photography with Model",
             "teamSize": "2 (1 Model + 1 Photographer)",
             "participants": "1 Team from Each Class",
             "venue": "Online",
-            "date": "All days of Gandhaar",
-            "time": "All days of Gandhaar",
-            "registration_link": "",
+            "date": "From the Day of registration till 2nd day of Gandhaar",
+            "time": "From the Day of registration till 2nd day of Gandhaar",
+            "registration_link": "https://forms.gle/TCQZkLSj3mmEGZyk8",
             "coordinators": [
                 {
                     "name": "Gayatri Muttepawar",
@@ -98,16 +103,56 @@
             "overview": "Cosplay Competition is a popular event where participants are expected to dress up in costumes and accessories to represent their favorite fictional character from movie, video games, comic books, anime etc. Cosplayers usually go above and beyond to embody the character’s personality, gestures, and mannerism.",
             "rules": [
                 "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
-                "Any signs or symbols that can be characterized as hate symbols or signs of discrimination should not be displayed. This includes any symbol that is a symbol of oppression, hatred, or violence towards a specific group of people.",
-                "Cosplay or costumes that intentionally impersonate those of local law enforcement, safety personnel, are strictly prohibited.",
-                "80% of the cosplay must be constructed or altered by the entrant.",
-                "Costumes entered must be presented with reference images and recreate characters from anime, manga, animation, etc.",
-                "All costumes should provide enough coverage to be worn in public and should be in good taste and appropriate. Gore, graphic violence, or other objectionable elements may be grounds for disqualification.",
-                "No political or religious statements are allowed. Anyone who violates this may be disqualified from the competition.",
-                "Prop weapons will be allowed providing they are composed of cardboard, foam, or other light materials.",
-                "Judging Criterion: <ul><li>CRAFTSMANSHIP <br>How the entrant made their costume, use of materials and creativity</li><li>LIKENESS/DETAIL<br>How close the contestant resembles the character they are cosplaying /detail on costume </li><li>PRESENTATION<br>How the entrant portrays themselves as the character they are cosplaying</li></ul>",
-                "The time limit per participant is approximately 15-30 seconds.",
-                "Participants with special effects (proper cosplay photography) will be awarded extra points."
+                "The model and the photographer should be from the same division.",
+  "All the teams have the liberty to choose any cosplay of their choice.",
+  "This event begins from the day you register and extends until the 2nd day of Gandhaar.",
+  "Participants have the flexibility to conduct photoshoots at any time within this timeframe.",
+  "Some of the best photos will be displayed in the Art Gallery on 2nd February 2024.",
+  "Open to all photography enthusiasts, amateur or professional.",
+  "Participant’s best clicks will be displayed on the post/stories on our official Gandhaar Instagram account, also credit will be given to the particular participant.",
+  "Good editing will be allotted extra points.",
+  "Use any camera or smartphone. The focus is on the moment captured, not the gear used.",
+  "Participants must submit their 3 best captures as & when instructed by the coordinators.",
+  "Judging Criteria: Creativity, originality, emotional impact, and adherence to the rules will be the key factors for judging. Judging will be done through online mode only.",
+  "Only original photographs captured during the challenge period are accepted.",
+  "Winners will be announced during prize distribution on 3rd February 2024."
+            ]
+        },
+
+    "Essence of Motion": {
+            "title": "Theme-based photography film",
+            "teamSize": "No limit (Entire class can participate)",
+            "participants": "1 Team from Each Class",
+            "venue": "Online",
+            "date": "From the Day of registration till 2nd day of Gandhaar",
+            "time": "From the Day of registration till 2nd day of Gandhaar",
+            "registration_link": "https://forms.gle/5o7ugUqp5QjQ8DdL9",
+            "coordinators": [
+                {
+                    "name": "Anwesha Sen",
+                    "contact": "8055245154"
+                },
+                {
+                    "name": "Ankita Gamne",
+                    "contact": "7066187812"
+                }
+            ],
+            "overview": "A theme-based photography film is a creative project where participants produce a short film by sequencing carefully composed photographs around a specific theme or concept. Unlike conventional films, these projects rely solely on visual storytelling through a series of images, using elements like composition, lighting, and colour to convey emotions, messages, or narratives. The theme provides a central focus, guiding participants to explore diverse interpretations and perspectives within the framework of their chosen subject. The final product is a visually engaging slideshow or montage that captures a unique and artistic exploration of the chosen theme.",
+            "rules": [
+                "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
+                "Teams have the liberty to choose a theme/topic of their choice. (eg. Freedom, poverty, happiness, etc)",
+  "Team must try to convey a story on that theme in (maximum) 30 pictures.",
+  "Minimal editing is allowed on images but manipulation of contents of images is not allowed.",
+  "This event begins from the day you register and extends until the 2nd day of Gandhaar.",
+  "Participants have the flexibility to capture moments at any time within this timeframe.",
+  "Open to all photography enthusiasts, amateur or professional.",
+  "Participant’s best clicks will be displayed on the post/stories on our official Gandhaar Instagram account, also credit will be given to the particular participant.",
+  "Use any camera or smartphone. The focus is on the moment captured, not the gear used.",
+  "Participants must submit all their captures as & when instructed by the coordinators.",
+  "Judging Criteria: Creativity, originality, emotional impact, and adherence to the rules will be the key factors for judging. Judging will be done through online mode only.",
+  "Only original photographs captured during the challenge period are accepted.",
+  "Winners will be announced during prize distribution on 3rd February 2024.",
+  "Decision of the judges will be final and binding."
             ]
         }
     }
