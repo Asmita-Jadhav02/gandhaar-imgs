@@ -4,7 +4,7 @@
         "Masked Masterpieces",
         "Tattoo Craft Rivalry",
         "Makeup Maestro",
-        "Heena Hustle"
+        "Henna Hustle"
     ],
     "details": {
         "Masked Masterpieces": {
@@ -14,7 +14,7 @@
             "venue": "Mechanical Circle",
             "date": "31st January 2024",
             "time": "12:30 PM to 2:30 PM",
-            "registration_link": "",
+            "registration_link": "https://forms.gle/S7qvYanCbq4c99yf8",
             "coordinators": [
                 {
                     "name": "Darshana Sawale",
@@ -32,7 +32,8 @@
                 "Teams must consist of one/two members: one painter and one model.",
                 "All participants must bring their own model from their respective divisions.",
                 "The painter must complete the face painting within a maximum time limit of 90 minutes.",
-                "Judging will be based on creativity, precision, originality, and adherence to the chosen theme.",
+                "After the allotted time, the judges will evaluate and score the completed face paintings based on predetermined criteria.",
+                "Designs must be original and can earn bonus points for creativity and unique themes.",
                 "Hair styling will not be taken into consideration for judging.",
                 "Participants must bring their own material required for the competition. <br>(colours, brushes, glitter, napkins, newspapers to avoid any damage to the garden etc)",
                 "Participants are required to bring non-toxic, skin-safe face paint and brushes.",
@@ -49,7 +50,7 @@
             "venue": "Mechanical Circle",
             "date": "1st February 2024",
             "time": "3:00 PM to 5:00 PM",
-            "registration_link": "",
+            "registration_link": "https://forms.gle/GW1rNtVMPQJCFDGs9",
             "coordinators": [
                 {
                     "name": "Sai Ingole",
@@ -68,8 +69,7 @@
                 "All participants must bring their own model from their respective divisions.",
                 "Tattoos can be painted on 1 hand (entire) / both hands (entire) / 1 leg (below the knee) / both legs (below the knee). No extra points for covering both hands and legs.",
                 "Tattoos are not allowed on any other body parts. <br>(No tattoos on the face- Check out face painting competition for the same)",
-                "Teams must complete the art within a time limit of 1 hour and 15 minutes.",
-                "Judging will be based on originality, creativity, difficulty of design, theme, etc. <br>Subsequently, judges will spend the next 45 minutes evaluating each team's artwork.",
+                "Teams must complete the art within a time limit of 1 hour and 15 minutes.<br>Subsequently, judges will spend the next 45 minutes evaluating each team's artwork.",
                 "Hairstyling will not be taken into consideration for judging.",
                 "Participants must bring their own paints, pens,  brushes, water holders, rough cloth, and newspaper to avoid any damage to the garden space, etc.",
                 "Participants are required to bring non-toxic, skin-safe face paint and brushes",
@@ -82,12 +82,12 @@
         },
         "Makeup Maestro": {
             "title": "Makeup Competition",
-            "teamSize": "2",
+            "teamSize": "2 memebers",
             "participants": "1 team from each class",
             "venue": "Mechanical Circle",
             "date": "3rd February 2024",
             "time": "1:00 PM to 3:00 PM",
-            "registration_link": "",
+            "registration_link": "https://forms.gle/3bBbcGFySnTEizD2A",
             "coordinators": [
                 {
                     "name": "Saloni Raut",
@@ -115,14 +115,14 @@
                 "Judges may assess technical skills, including blending, precision, and overall application."
             ]
         },
-        "Heena Hustle": {
+        "Henna Hustle": {
             "title": "Mehendi Competition",
             "teamSize": "1 (Self-artist)/ 2 (1 artist + 1 model)",
             "participants": "1 team per class",
             "venue": "Mechanical Circle",
             "date": "31st January 2024",
             "time": "3:30 PM to 5:30 PM",
-            "registration_link": "",
+            "registration_link": "https://forms.gle/BnPVzJQZVaqNhbgMA",
             "coordinators": [
                 {
                     "name": "Vaishnavi Kadganve",
