@@ -9,7 +9,7 @@
     "details": {
         "Masked Masterpieces": {
             "title": "Face Painting",
-            "teamSize": "1 (Self painting) / 2 (1 artist & 1 model)",
+            "teamSize": "1 (Self painting) / 2 (1 artist + 1 model)",
             "participants": "1 team per class",
             "venue": "Mechanical Circle",
             "date": "31st January 2024",
@@ -82,7 +82,7 @@
         },
         "Makeup Maestro": {
             "title": "Makeup Competition",
-            "teamSize": "2 memebers",
+            "teamSize": "1 (Self makeup) / 2 (1 artist + 1 model)",
             "participants": "1 team from each class",
             "venue": "Mechanical Circle",
             "date": "3rd February 2024",
