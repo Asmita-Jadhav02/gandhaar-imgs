@@ -41,7 +41,7 @@
         },
         "World Screen Whiz War": {
             "title": "All In One Quiz",
-            "teamSize": "5 members",
+            "teamSize": "3 members",
             "participants": "1 team from each class",
             "venue": "KB Joshi Auditorium",
             "date": "2nd February 2024",
@@ -60,17 +60,17 @@
             "overview": "Gear up for three exciting rounds in the Quizmania event! From text-based questions to enacting scenes in a bonus round, and finally, a buzzer round testing your quick thinking. Only the sharpest minds will prevail.",
             "rules": [
                 "<strong>Upon completion of registration, it will be considered final; no alterations will be accommodated under any circumstances.</strong>",
-                "The competition will involve 3 rounds.",
-                "Round 1 will be an Elimination round.",
-                "Text questions based on Bollywood/Hollywood/Anime or K-drama.",
-                "Out of 10 teams, only 8 will be selected for the next round.",
-                "Round 2 will be the Bonus round.",
-                "This round will be similar to Dumb Charades. You will have to enact the scene/song.",
-                "Only 6 teams will go forward to the last round.",
-                "Round 3 will be the Buzzer round.",
-                "In the last round, you will be shown images for a limited time period after which you'll have to guess the answer.",
-                "This is the 'fastest finger first' round.",
-                "Any decision taken by the Event Coordinators will be FINAL."
+                 "The questions asked in this quiz would span along the industries of Bollywood, Hollywood, K-Dramas, and Anime.",
+  "You have the flexibility to designate any member from your team to respond – the choice is entirely yours.",
+                "There will not be any eliminations in any rounds. The winner will be declared based on overall scores of all 3 rounds.",
+"Use of Phone/Internet is strictly prohibited.",            
+                "Taking help from the audience will lead to deduction of points.",
+  "<b>FORMAT</b><br>The competition is structured into three exciting rounds:<ul><li>Round 1: <br>Dialogue Fusion Participants will have to complete a dialogue by filling in the missing part. Additionally, they must identify the movie from which the dialogue originates.</li><li>Round 2: Fact or Fiction Participants will be presented with three statements, and they must determine which of the statements is true (fact) and which ones are false (fiction). This can cover a wide range of topics.</li><li>Round 3: Pictorial Puzzle Round In this final round, participants will be presented with an image for a limited time. The challenge is to be the fastest team in identifying the movie it is from.</li></ul>",
+  "In the initial two rounds, each team will be given a chance for their answers.",
+  "However, the dynamics shift in the final round, where a buzzer system determines the point allocation.",
+  "The first team to deliver a correct answer will secure the point. Notably, the points will not be disclosed immediately, adding an element of suspense to the competition.",
+  "Results will be determined based on the average scores across all three rounds and will be officially announced on the prize distribution day.",
+  "It is imperative to note that any decisions made by the Event Coordinators are final and binding."
             ]
         }
     }
