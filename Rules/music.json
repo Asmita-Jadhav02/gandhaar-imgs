@@ -41,7 +41,7 @@
         },
         "Kaun banega surpati": {
             "title": "Department Antakshari",
-            "teamSize": "2 - 5 members",
+            "teamSize": "2 - 4 members",
             "participants": "1 team from each department (only Students)",
             "venue": "Stage 2",
             "date": "1st February 2024",
@@ -60,6 +60,7 @@
             "overview": "Department Antakshari challenges teams to showcase their musical prowess through three exciting rounds. From song lyric decrypting to singing challenges, culminating in the ultimate Antakshari face-off. May the most melodious team emerge victorious",
             "rules": [
                "<strong>Upon completion of registration, kindly note that it will be considered as final, no alterations will be accommodated under any circumstances.</strong>",
+                "No 2 participants can be of the same year.",
                 "There will not be any eliminations in any rounds. The winner will be declared based on overall scores of all 3 rounds.",
                 "Use of Phone/Internet is strictly prohibited.",
                 "Taking help from the audience will lead to deduction of points.", 
